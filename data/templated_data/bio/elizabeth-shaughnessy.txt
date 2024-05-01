@@ -1,0 +1,27 @@
+Name: Elizabeth Shaughnessy
+Title: None
+Occupation: Communications Advisor - Operations at Oxfam
+Bio: Skilled communications and project management professional with international experience across private and aid sectors. Expertise in developing strategy, implementing change, and maintaining positive relationships with global stakeholders. Passionate about social impact, triple bottom line business, ending poverty and conflict, and empowering women and youth. Highly organized, ever curious, and driven by challenge.
+Country: None
+
+    Title/Company: Visiting Trustee at Citizens Advice in London, Greater London, United Kingdom from Month: 8,Year: 2018 to Month:  year:  doing None
+
+    Title/Company: Communications Advisor - Operations at Oxfam in Oxford, Oxfordshire, United Kingdom from Month: ,Year:  to Month:  year:  doing None
+
+    Title/Company: Oxford Internship Program at Brave Phone Croatia in None from Month: 7,Year: 2017 to Month: 9 year: 2017 doing As the final part of my master's program and with funding from Erasmus, I developed external communications and strategy, translations, editing, and copywriting for this Zagreb-based NGO and the Child Protection Hub, which focus on the welfare and protection of children in Southeast Europe.
+
+    Title/Company: Consultant at Fityap in None from Month: 1,Year: 2014 to Month: 3 year: 2014 doing Created a support hub for this fitness-focused tech startup in the Boston area, including setting up and designing its Help Center, writing support documentation, and establishing an analytics system to monitor future performance
+
+    Title/Company: Senior Specialist, Community Operations and Programming at C Space in Boston, Massachusetts, United States from Month: 3,Year: 2014 to Month: 6 year: 2015 doing * Managed ticketing platform and analytics across multiple teams.
+* Integrated two teams for more efficient output and use of third party software, including creating an instruction manual and leading training sessions.
+* Worked with the Engineering, Production, and Product teams to maximize the QA process.
+* Regularly worked with HTML, CSS, JScript, and JavaScript. Familiar with Zendesk, ExactTarget, JIRA, ConfirmIT, and other third party software and platforms.
+* Provided technical assistance to the company and clients.
+
+    Title/Company: Content Specialist at Flipkey in Boston, Massachusetts, United States from Month: 3,Year: 2013 to Month: 3 year: 2014 doing * Built and maintained a public Help Center and detailed FAQ for rental home owners and travelers.
+* Coordinated with Product and Marketing teams to learn about upcoming changes and make relevant adjustments to the help content.
+* Managed Help Center analytics, tracking trends each month to create more efficient and effective self-help solutions.
+* Organized and tracked changes, updates, upcoming product features, and links.
+* Proactively made adjustments to the layout and UI via CSS and HTML.
+* Advanced to the position within 4 months of working in the Customer Care Associate role.
+

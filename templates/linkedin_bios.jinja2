@@ -1,0 +1,11 @@
+Name: {{bio.full_name}}
+Title: {{ bio.headline }}
+Occupation: {{ bio.occupation }}
+Bio: {{ bio.summary }}
+Country: {{ bio.country_full_name }}
+{% for experience in bio.experiences %}
+    Title/Company: {{ experience.title }} at {{ experience.company }} in {{ experience.location }} from Month: {{ experience.starts_at.month }},Year: {{ experience.starts_at.year }} to Month: {{ experience.ends_at.month }} year: {{ experience.ends_at.year }} doing {{ experience.description }}
+{% endfor %}
+{% for education in bio.educations %}
+    {{ education.school }}: {{ education.degree }} from {{ education.end_date }} to {{ education.end_date }}
+{% endfor %}

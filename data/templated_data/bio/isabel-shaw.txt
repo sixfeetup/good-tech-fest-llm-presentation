@@ -1,0 +1,26 @@
+Name: Isabel Shaw
+Title: Product + Social Impact
+Occupation: Senior Product Manager at Exygy
+Bio: None
+Country: United States of America
+
+    Title/Company: Senior Product Manager at Exygy in Oakland, California, United States from Month: 5,Year: 2022 to Month:  year:  doing None
+
+    Title/Company: Senior Product Manager at Ona in San Francisco Bay Area from Month: 3,Year: 2020 to Month: 11 year: 2021 doing Ona is a social enterprise technology company based in Nairobi, Kenya dedicated to developing open source solutions to promote the smarter use of data.  We believe technology is a springboard to transform international development, allowing organizations to use data to overcome the greatest challenges and identify the best opportunities.
+
+    Title/Company: Product Manager at Watsi in San Francisco Bay Area + Ethiopia from Month: 12,Year: 2017 to Month: 1 year: 2020 doing Product Manager for Meso, a platform for administering health coverage systems in developing economies. Responsible for guiding the overall success of the suite of mobile and web tools from discovery through delivery. Worked directly with engineering and served as an advocate for users both at health facilities and within the Ministry of Health.
+
+    Title/Company: Program Manager at Watsi in San Francisco Bay Area + Uganda from Month: 2,Year: 2017 to Month: 12 year: 2017 doing Using technology to accelerate progress towards universal health coverage
+
+    Title/Company: Design Strategy Consultant at Schaffer&Combs in San Francisco Bay Area from Month: 6,Year: 2016 to Month: 9 year: 2016 doing Schaffer&Combs solves problems and creates growth for mission-driven organizations that possess the vision and ambition to make genuine change. We work with nonprofit organizations, for-profit companies, philanthropies, foundations, and social entrepreneurs to build and implement innovative management solutions.
+
+    Title/Company: Founding Team at Broad Street Maps in Seattle from Month: 2,Year: 2014 to Month: 3 year: 2016 doing Founding team of Broad Street Maps, an organization that provides map-based analytics for community health organizations seeking to develop patient-centric solutions for monitoring and evaluation systems.
+
+    Title/Company: Mapping + Data Consultant at Last Mile Health in Monrovia, Liberia from Month: 9,Year: 2015 to Month: 3 year: 2016 doing Conducted a comprehensive data collection and mapping project in order to help determine LMH's distribution of frontline health workers. Results helped inform the implementation of the Liberian National Community Health Services Strategy.
+
+    Title/Company: JSC Rwanda Fellow at JDC in Rwanda from Month: 12,Year: 2012 to Month: 11 year: 2013 doing Year-long fellowship with The Joint Distribution Committee working with adolescents, orphaned by HIV/AIDS and genocide in the Eastern Province.
+
+    Title/Company: Child Protection and HIV/AIDS Intern at Save the Children International in Washington D.C. Metro Area from Month: 6,Year: 2012 to Month: 8 year: 2012 doing Assisted with grant and proposal writing, created program documentation, and coordinated Save the Children’s participation in the 2012 International AIDS Conference
+
+    Title/Company: Global Health Research Assistant at Middlebury College in None from Month: 2,Year: 2012 to Month: 5 year: 2012 doing Conducted GIS analysis and built cartographic representations of the effects of polio eradication campaigns on basic health access for Gates Foundation funded research
+

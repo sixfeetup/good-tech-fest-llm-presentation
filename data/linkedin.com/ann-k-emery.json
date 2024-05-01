@@ -1,0 +1,512 @@
+{
+  "public_identifier": "annkemery",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/annkemery/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240420%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240420T231326Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=672299a361b3dfc44e245ec3b8b954a03206557c87faaf87a3023549262145df",
+  "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/annkemery/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240420%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240420T231326Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=01e6a5d0d16afa766d663cf5efa16ccfab53663dde59363a956985900e0f4552",
+  "first_name": "Ann K.",
+  "last_name": "Emery",
+  "full_name": "Ann K. Emery",
+  "follower_count": null,
+  "occupation": "Data Visualization Designer & Speaker at Depict Data Studio",
+  "headline": "Founder & Principal, Eval4Learning",
+  "summary": "Ann K. Emery is an internationally-acclaimed speaker who equips organizations to get their data out of dusty spreadsheets and into real-world conversations. \n\nEach year, she delivers over 100 keynotes, workshops, and webinars with the aim of equipping organizations to visualize data more effectively. \n\nShe has been invited to speak in 30 states and 10 countries; 6,000 people have enrolled in her online training academy; and she has consulted to 200 organizations, including the United Nations, Centers for Disease Control, and Harvard University. \n\nShe earned a Bachelor\u2019s degree from the University of Virginia and a Master\u2019s degree from George Mason University. \n\nAfter traveling full-time as a digital nomad, Ann now resides in Florida along with her husband and three children.",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Greater Orlando",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2014
+      },
+      "ends_at": null,
+      "company": "Depict Data Studio",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/depict-data-studio/",
+      "title": "Data Visualization Designer & Speaker",
+      "description": "Depict Data Studio provides data visualization training through online courses, in-person workshops, and conference keynotes. We also transform your spreadsheets into data stories through our custom design projects.",
+      "location": "Orlando, Florida, United States",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFW0e2VbCy7aA/company-logo_400_400/0/1566480282056?e=1672876800&v=beta&t=LwzxglZn5Oxp865I9Ge7sIN4pVtVdLHLSc3yE6OkSMU"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "company": "American Evaluation Association",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/american-evaluation-association/",
+      "title": "Volunteer",
+      "description": "- AEA Data Visualization and Reporting Topical Interest Group, Chair (2016 - 2017), Co-Chair (2014 - 2015)\n- AEA Potent Presentations Initiative, Advisory Board (2012 - 2017)\n- Washington Evaluators, Secretary (2013 - 2015), Communications Committee Chair (2014 - 2015)\n- AEA Professional Development Working Group, Member (2015)\n- AEA Online Professional Development Working Group, Member (2015)\n- AEA Local Arrangements Working Group, Sub-Committee Chair (2013)\n- AEA Ignite Presentations Working Group, Member (2012)\n- Eastern Evaluation Research Society, Support to the Board of Directors (2010 - 2012)",
+      "location": "Washington D.C. Metro Area",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGOzz6HmiLeUg/company-logo_400_400/0/1519887428036?e=1672876800&v=beta&t=mtw-C7i1IQkseFcWVz1W40nfiMP9E5kh4QbqoRr08-M"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2014
+      },
+      "company": "Innovation Network",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/innovation-network/",
+      "title": "Associate",
+      "description": "- AEA Data Visualization and Reporting Topical Interest Group, Chair (2016 - 2017), Co-Chair (2014 - 2015)\n- AEA Potent Presentations Initiative, Advisory Board (2012 - 2017)\n- Washington Evaluators, Secretary (2013 - 2015), Communications Committee Chair (2014 - 2015)\n- AEA Professional Development Working Group, Member (2015)\n- AEA Online Professional Development Working Group, Member (2015)\n- AEA Local Arrangements Working Group, Sub-Committee Chair (2013)\n- AEA Ignite Presentations Working Group, Member (2012)\n- Eastern Evaluation Research Society, Support to the Board of Directors (2010 - 2012)",
+      "location": "Washington D.C. Metro Area",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQH5GVicFP752Q/company-logo_400_400/0/1519864999783?e=1672876800&v=beta&t=NmsXS1ak4qEqs1TtD3yJBeBEVuhQVE4kZ1Ftphi4sco"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2012
+      },
+      "company": "Latin American Youth Center",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/laycdc/",
+      "title": "Learning and Evaluation Specialist",
+      "description": "- AEA Data Visualization and Reporting Topical Interest Group, Chair (2016 - 2017), Co-Chair (2014 - 2015)\n- AEA Potent Presentations Initiative, Advisory Board (2012 - 2017)\n- Washington Evaluators, Secretary (2013 - 2015), Communications Committee Chair (2014 - 2015)\n- AEA Professional Development Working Group, Member (2015)\n- AEA Online Professional Development Working Group, Member (2015)\n- AEA Local Arrangements Working Group, Sub-Committee Chair (2013)\n- AEA Ignite Presentations Working Group, Member (2012)\n- Eastern Evaluation Research Society, Support to the Board of Directors (2010 - 2012)",
+      "location": "Washington D.C. Metro Area",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQF2x3B-OxXmVw/company-logo_400_400/0/1654114105382?e=1672876800&v=beta&t=GVK0SfcKMRsudObvE1AehKUdC3xVncGldCMK-73JDfI"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2010
+      },
+      "company": "ICF International",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/icf-international/",
+      "title": "Research Assistant",
+      "description": null,
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGTtElN0gXWcQ/company-logo_400_400/0/1607484452685?e=1672876800&v=beta&t=zHo0wPh9JuXf-XQmRpXjWryNH5BhphbuTXjVJdFvrrw"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "company": "University of Virginia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/school/university-of-virginia/",
+      "title": "Research Assistant",
+      "description": "- Early Steps Project with Dr. Melvin Wilson \n- Institute of Law, Psychiatry and Public Policy with Dr. Shelly Jackson \n- Virginia Institute of Development in Adulthood with Dr. Joseph P. Allen\n- Preschool Language and Literacy Lab in the Curry School of Education \n- Social Psychology Lab with Dr. Timothy Wilson",
+      "location": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHpPQR9nOzaxQ/company-logo_400_400/0/1662733242661?e=1672876800&v=beta&t=YvoNcPdQqXxMEqdcbY_Fd8JYM-IIcQMmanvXpIFBM8o"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2008
+      },
+      "company": "Charlottesville/Albemarle Commission on Children and Familes",
+      "company_linkedin_profile_url": null,
+      "title": "Researcher",
+      "description": "- Youth Development Network Coordinator (2008)\n- Research Intern (2007)",
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "field_of_study": "Educational Psychology: Evaluation, Assessment, and Testing",
+      "degree_name": "M.S.",
+      "school": "George Mason University",
+      "school_linkedin_profile_url": null,
+      "description": "Educational Psychology Award",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQEqP3qWiv-ZEw/company-logo_400_400/0/1519856326478?e=1672876800&v=beta&t=bSRiEMT60ZF67iojWcN3ett6LMWyV2cvQTL_jwZONRc",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "field_of_study": "Psychology, Spanish",
+      "degree_name": "B.A.",
+      "school": "University of Virginia",
+      "school_linkedin_profile_url": null,
+      "description": "Phi Beta Kappa",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHpPQR9nOzaxQ/company-logo_400_400/0/1662733242661?e=1672876800&v=beta&t=YvoNcPdQqXxMEqdcbY_Fd8JYM-IIcQMmanvXpIFBM8o",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "field_of_study": "Latin American Literature",
+      "degree_name": "Study Abroad",
+      "school": "Pontificia Universidad Cat\u00f3lica del Per\u00fa",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHNxJdDKSu80g/company-logo_400_400/0/1626692502131?e=1672876800&v=beta&t=yYAdjLqGMwPKSAIr5kNQrhG6vHQVW0yF_nPWHeW4P6Y",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [
+    {
+      "name": "Coalition Assessment: Approaches for Measuring Capacity and Impact",
+      "publisher": "Innovation Network, Inc.",
+      "published_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2014
+      },
+      "description": "Why assess coalition capacity? How should a coalition be assessed? How can coalition assessment data be analyzed and used? This new publication provides practitioners and funders with insights into the coalition assessment process along with concrete examples and lessons we\u2019ve learned from our own work.",
+      "url": "http://www.innonet.org/resources/files/innonet-coalition-assessment.pdf"
+    },
+    {
+      "name": "State of Evaluation 2012: Evaluation Practice and Capacity in the Nonprofit Sector",
+      "publisher": "Innovation Network, Inc.",
+      "published_on": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "description": null,
+      "url": "http://www.stateofevaluation.org"
+    }
+  ],
+  "accomplishment_honors_awards": [
+    {
+      "title": "#33 Excel Blog Worldwide in 2018",
+      "issuer": "-",
+      "issued_on": null,
+      "description": null
+    },
+    {
+      "title": "#7 Data Visualization Blog Worldwide in 2018",
+      "issuer": "-",
+      "issued_on": null,
+      "description": null
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "MO-200: Microsoft Excel Exam",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Certiport - A Pearson VUE Business",
+      "url": null
+    }
+  ],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/stephanieevergreen",
+      "name": "Stephanie Evergreen",
+      "summary": "The Data Viz Academy opened to the VIP list on Sept 27! Oct 3 for the public.",
+      "location": "Kalamazoo, MI"
+    },
+    {
+      "link": "https://www.linkedin.com/in/meganjohanson",
+      "name": "Megan Johanson",
+      "summary": "Data Enthusiast",
+      "location": "Columbus, OH"
+    },
+    {
+      "link": "https://www.linkedin.com/in/angelabaltes",
+      "name": "Angela Baltes, PhD",
+      "summary": "Data Science & Analytics",
+      "location": "Albuquerque, NM"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aishwarya-srinivasan",
+      "name": "Aishwarya Srinivasan",
+      "summary": "AI & ML Innovation Leader | LinkedIn Top Voice 2020 | 260k Followers",
+      "location": "San Francisco Bay Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/scottmztaylor",
+      "name": "SCOTT TAYLOR - The Data Whisperer",
+      "summary": "Data Evangelism As-a-Service | Author | Keynote Speaker | Event MC | DataIQ 100 | Onalytica Who\u2019s Who in DM | CDO Magazine Leading Data Consultant | Thinkers360 Top 10 | 5X Data Marathon Host | Dataversity Top 10 Blogger",
+      "location": "New York City Metropolitan Area"
+    },
+    {
+      "link": "https://uk.linkedin.com/in/matt-corey-data-digitalhealth",
+      "name": "Matt Corey",
+      "summary": "Life and Transformation Coach | Speaker | Author |",
+      "location": "London"
+    },
+    {
+      "link": "https://ca.linkedin.com/in/harpreetsahota204",
+      "name": "Harpreet Sahota",
+      "summary": "Philosopher | Data Scientist | Statistician | Podcaster | The Idea Broker | Escaping Competition Through Authenticity",
+      "location": "Winnipeg, MB"
+    },
+    {
+      "link": "https://www.linkedin.com/in/biscorecard",
+      "name": "Cindi Howson",
+      "summary": "Chief Data Strategy Officer at ThoughtSpot and Host of The Data Chief Podcast",
+      "location": "Sparta, NJ"
+    },
+    {
+      "link": "https://www.linkedin.com/in/gabrieladequeiroz",
+      "name": "Gabriela de Queiroz",
+      "summary": "AI Strategy and Innovation Leader | Data Scientist | Keynote Speaker",
+      "location": "San Francisco Bay Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christinastathopoulos",
+      "name": "Christina Stathopoulos, MSc",
+      "summary": "Data Whisperer \u2666 Analytics Specialist & Tech Enthusiast \u2666 Join My #bookaweekchallenge",
+      "location": "New York, NY"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kimberlyherrington",
+      "name": "Kimberly M. Herrington \u2605",
+      "summary": "Data Journalist | Network Weaver | Creator of #BuffaloBusinessIntelligence | DS4A Fellowship Mentor",
+      "location": "Buffalo-Niagara Falls Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kate-strachnyi-data",
+      "name": "Kate Strachnyi",
+      "summary": "Join the DATAcated Circle \u27a1\ufe0f circle.datacated.com",
+      "location": "New York, NY"
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomives",
+      "name": "Thom Ives, Ph.D.",
+      "summary": "Lead Data Scientist, AI Strategy Corporation | Founder, Integrated Machine Learning & AI",
+      "location": "Eagle, ID"
+    },
+    {
+      "link": "https://www.linkedin.com/in/johnkthompson",
+      "name": "John Thompson",
+      "summary": "Best Selling Author X 2, Keynote Speaker, Innovator in AI, Data & Advanced Analytics.  Senior technology executive leading Data Science & Product teams creating analytics products, models & applications that drive change",
+      "location": "Greater Chicago Area"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kozyrkov",
+      "name": "Cassie Kozyrkov",
+      "summary": "Chief Decision Scientist at Google, Creator of the Making Friends with Machine Learning series",
+      "location": "New York, NY"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kristen-kehrer-datamovesme",
+      "name": "Kristen Kehrer",
+      "summary": "Founder - Data Moves Me | LinkedIn Top Voice 2018 - Data Science & Analytics | MS in Statistics | Blogger | Competitive Pole Dancer",
+      "location": "Greater Boston"
+    },
+    {
+      "link": "https://www.linkedin.com/in/josephreis",
+      "name": "Joe Reis \ud83e\udd13",
+      "summary": "CEO/Co-Founder at Ternary Data | Data Engineer and Architect | Recovering Data Scientist \u2122  | O'Reilly author | Follow the Monday Morning Data Chat podcast & the Data Nerd Herd YouTube Show",
+      "location": "Salt Lake City, UT"
+    },
+    {
+      "link": "https://www.linkedin.com/in/douglaney",
+      "name": "Douglas Laney",
+      "summary": "Data & Analytics Innovation Fellow at West Monroe | Author of \"Infonomics\"",
+      "location": "Greater Chicago Area"
+    },
+    {
+      "link": "https://th.linkedin.com/in/lillianpierson",
+      "name": "Lillian Pierson, P.E.",
+      "summary": "Director of Product \u25aa Founder \u25aa Technology Business Mentor \u25aa Data Strategy / Data Science Instructor (1.3 MM+ learners \ud83c\udf89)",
+      "location": "Ko Samui"
+    },
+    {
+      "link": "https://www.linkedin.com/in/andrewjsmithknownasdrew",
+      "name": "Drew Smith, MBA",
+      "summary": "Global Exec | EVP | SVP | P&L Owner |BI | Analytics | AI and ML   Data Strategy | Data Literacy | Data Governance Transformational results through collaborative leadership",
+      "location": "Portland, OR"
+    },
+    {
+      "link": "https://www.linkedin.com/in/leapica",
+      "name": "Lea Pica",
+      "summary": "\ud83d\udcc8 Data Storytelling Trainer | Live + Virtual | Keynote Speaker | I Help Data People Present Data Stories that Inspire Action \ud83d\udc4a\ud83c\udffb",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/abmakulec",
+      "name": "Amanda Makulec",
+      "summary": "Data viz designer, teacher & speaker | Executive Director at Data Visualization Society",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/hanakhan",
+      "name": "Hana M.",
+      "summary": "Let's make you a pro in presenting and visualizing data | Data Visualization & Data Storytelling",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/averyjsmith",
+      "name": "Avery Smith",
+      "summary": "Building 30 Data Science Projects in 30 Days | I help aspiring data professionals build data projects & portfolios that get them 6-figure jobs \ud83d\udcca",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/christauber",
+      "name": "Chris Tauber",
+      "summary": "Data for Executive Presentations, Tableau Dashboards, Training | Executive MBA",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/eijkelenboom",
+      "name": "Gilbert Eijkelenboom",
+      "summary": "Communication skills training for Data & Analytics professionals // Founder: MindSpeaking.com",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/asyaj",
+      "name": "Asya Spears, Chief Encouraging Officer of Data",
+      "summary": "Data Coach | Professional Speaker | Data Talent Development Researcher",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/billshander",
+      "name": "Bill Shander",
+      "summary": "Public speaker, workshop leader focused on information design, data storytelling & visualization, and creativity.",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/micoyuk",
+      "name": "Mico Y.",
+      "summary": "Creative with a knack for data \u2022 Canvas Advocate \u2022 Data Evangelist \u2022 Analytics on Fire Podcast Host \u2022 TV News Data Commentator \u2022 Keynote Speaker \u2022 Coach \u2022 Trained 10K+ on data storytelling",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Juan Martin Romualdez\n\n\n\nI cannot overstate the value that Ann brought to our working group, as we were launching a pilot program which provided employment and career development services to individuals who were struggling to regain or maintain their stability in almost all areas of their lives.  Ann was very sensitive to the needs and challenges of our target population, but was absolutely committed to providing us with the most accurate data and overall \"picture\" of our program's strengths and weaknesses, as well as its most meaningful outcome measures.  She also demonstrated a unique ability to help everyone in the team recognize and realize that despite differences in perspectives and priorities, we were all striving toward the same goal.  I would encourage anyone who wanted a true evaluation of his or her program, to connect with Ann and discover how much she can help you understand what you are trying to do and what you are actually accomplishing. "
+  ],
+  "activities": [
+    {
+      "title": "Want to know the secret to making side by side bar charts in Excel? You make two separate bar charts that once pasted into Word or PowerPoint, look\u2026",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Shared by Ann K. Emery"
+    },
+    {
+      "title": "I'm back with another tip on how to tweak the col_index_num in Excel (yes, again). Vlookup is such a time saver in Excel and I want you to know all\u2026",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Shared by Ann K. Emery"
+    },
+    {
+      "title": "In addition to getting access to over ten data courses, DATAcated Inner Circle members also get to participate in monthly live sessions with\u2026",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Liked by Ann K. Emery"
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Anne-K Emery",
+      "link": "https://fr.linkedin.com/in/anne-k-emery-a77403205",
+      "summary": "Accompagnante d'El\u00e8ve en Situation de Handicap chez Lyc\u00e9e Pierre Mend\u00e8s France",
+      "location": "Greater Rennes Metropolitan Area"
+    }
+  ],
+  "articles": [
+    {
+      "title": "The 30-3-1 Approach with Unlimited Visual Appendices: The Bare Minimum for Designing Reports that Actually Inform Decisions",
+      "link": "https://www.linkedin.com/pulse/30-3-1-approach-unlimited-visual-appendices-bare-minimum-ann-k-emery",
+      "published_date": {
+        "day": 7,
+        "month": 1,
+        "year": 2021
+      },
+      "author": "By Ann K. Emery",
+      "image_url": "https://media-exp1.licdn.com/dms/image/C4E12AQF7pTFU-spvcA/article-cover_image-shrink_180_320/0/1622121875352?e=1643846400&v=beta&t=I7HEI15C26F7zzHO8J3NiUTMNK1_BGmETdwHyCBbQFI"
+    },
+    {
+      "title": "Escaping the Bar Chart",
+      "link": "https://www.linkedin.com/pulse/escaping-bar-chart-ann-k-emery",
+      "published_date": {
+        "day": 9,
+        "month": 1,
+        "year": 2021
+      },
+      "author": "By Ann K. Emery",
+      "image_url": "https://media-exp1.licdn.com/dms/image/C4E12AQGMTr6IRIedjg/article-cover_image-shrink_180_320/0/1620758729925?e=1643846400&v=beta&t=_aBAUPiqpzYHrDu-gZbeKYGTaQA0CwsaSh-i7401io0"
+    },
+    {
+      "title": "Why \u201cKnow Your Audience\u201d is Terrible Dataviz Advice\u2014and What to Do Instead",
+      "link": "https://www.linkedin.com/pulse/why-know-your-audience-terrible-dataviz-adviceand-what-ann-k-emery",
+      "published_date": {
+        "day": 2,
+        "month": 1,
+        "year": 2021
+      },
+      "author": "By Ann K. Emery",
+      "image_url": "https://media-exp1.licdn.com/dms/image/C4D12AQE1dpEgqv08Sg/article-cover_image-shrink_180_320/0/1622667186853?e=1643846400&v=beta&t=l_s4DquPG96QMOy2p_TJ7jaErE06XhTS5sCg5ENn0CI"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}

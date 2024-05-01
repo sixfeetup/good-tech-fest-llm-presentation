@@ -1,0 +1,6 @@
+Speakers: Brandolon Barnett
+Event Title: Leveraging AI to Democratize Donor Education
+Event Date: Thursday, May 2, 2024
+Event Start Time: 2:15 PM
+Event End Time: 3:00 PM
+Event Description: Imagine a world where everyone could access and converse with a philanthropic advisor as easily as they can today conduct a search for a charity. At Giving Compass we believe that the current strengths of AI & LLMs such as translation, language generation to explain complex concepts, or organic conversational search, can begin to make that dream a reality. We'll share what we've learned in our research on donor search and content preferences in the age of AI and our learnings from building tools that provide AI-driven philanthropic advice and donor education.Register here.

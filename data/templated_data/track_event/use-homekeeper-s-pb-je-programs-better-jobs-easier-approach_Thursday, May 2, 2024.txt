@@ -1,0 +1,6 @@
+Speakers: Pahniti (Tom) Tosuksri
+Event Title: Use HomeKeeper's PB&JE (Programs Better & Jobs Easier) Approach
+Event Date: Thursday, May 2, 2024
+Event Start Time: 9:00 AM
+Event End Time: 10:00 AM
+Event Description: At HomeKeeper, a program management app built on the Salesforce platform, our tagline has always been: we make your jobs easier and your programs better. This tagline has stood the test of time for over a decade, with over 170 user organizations. But how do we apply this in practice? What does it mean to make programs better and jobs easier? And what does this have to do with peanut butter and jelly sandwiches?  This is the concept we would explore, including a demo of HomeKeeper, which is specifically tailored for affordable housing programs to better manage, and leverage, their data.Register here.

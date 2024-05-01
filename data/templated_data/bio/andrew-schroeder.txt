@@ -1,0 +1,12 @@
+Name: Andrew Schroeder
+Title: Vice President of Research and Analysis at Direct Relief || Co-founder of WeRobotics.org || Co-Director of CrisisReady
+Occupation: Vice President of Research and Analysis at Direct Relief
+Bio: Andrew Schroeder, PhD, MPP is a world recognized leader in  the use of geographic information systems (GIS) and data science for humanitarian aid and global health. He is the Vice President of Research and Analysis for Direct Relief (www.directrelief.org). In 2015 he also co-founded the NGO WeRobotics, which enables local communities throughout the global South to use robotics for social good.  He is the co-coordinator of the CrisisReady project (https://crisisready.io) along with colleagues from Harvard School of Public Health.  
+Country: United States of America
+
+    Title/Company: Co-Director at CrisisReady in United States from Month: 10,Year: 2020 to Month:  year:  doing CrisisReady is a collaborative effort hosted at Harvard University and Direct Relief, providing scalable expertise in Data Readiness, Methods Readiness, and Translational Readiness, for equitable and transparent crisis planning and response.
+
+    Title/Company: Vice President of Research and Analysis at Direct Relief in Santa Barbara, CA from Month: 1,Year: 2008 to Month:  year:  doing Humanitarian innovation, program design, monitoring & evaluation, GIS and data analysis for global public health and disaster relief.
+
+    Title/Company: Co-Founder at WeRobotics in Global from Month: 7,Year: 2016 to Month:  year:  doing We are building a global network of labs where people accelerate and scale the impact of their humanitarian aid, global development and environmental protection efforts using appropriate robotics solutions. Robots, such as drones, are radically transforming multiple industries through rapid and dramatic gains in efficiency and productivity. We want to create the same impact in a responsible and meaningful way by building local capacity and incubating new businesses in developing countries.
+

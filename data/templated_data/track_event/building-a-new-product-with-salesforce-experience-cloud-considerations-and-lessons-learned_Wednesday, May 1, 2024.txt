@@ -1,0 +1,6 @@
+Speakers: Arnaud Charlier
+Event Title: Building a new product with Salesforce Experience Cloud - Considerations and lessons learned
+Event Date: Wednesday, May 1, 2024
+Event Start Time: 5:00 PM
+Event End Time: 5:30 PM
+Event Description: Care Australia went on to build a microlending platform in 2023 with Salesforce CRM, CMS and Experience cloud.  The platform was chosen for its capacity to build the new product in record time. The salesforce echosystem allows you to rapidly achieve an MVP product without the technical complexity of web infrastructure, cybersecurity considerations and the need to code everything. This session is to reflect on the many considerations to have before deciding if Salesforce and Experience Cloud might be the right platform for you.Register here.

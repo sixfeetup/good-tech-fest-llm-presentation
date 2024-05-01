@@ -1,0 +1,6 @@
+Speakers: Valeria Tafoya
+Event Title: How to do social data science in Latin America
+Event Date: Thursday, May 2, 2024
+Event Start Time: 12:00 PM
+Event End Time: 12:30 PM
+Event Description: Session about social data science and AI's applications for social and environmental challenges. With use case examples that we have applied from the Trust for the Americas, and methodologies and resources for the future of data-powered social projects.Register here.

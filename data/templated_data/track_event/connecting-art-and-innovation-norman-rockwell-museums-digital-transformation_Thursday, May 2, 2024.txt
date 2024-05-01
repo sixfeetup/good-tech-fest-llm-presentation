@@ -1,0 +1,6 @@
+Speakers: Jordan Berger
+Event Title: Connecting Art and Innovation: Norman Rockwell Museum’s Digital Transformation
+Event Date: Thursday, May 2, 2024
+Event Start Time: 8:00 AM
+Event End Time: 8:45 AM
+Event Description: Immerse yourself in the story of how the iconic Norman Rockwell Museum (NRM), celebrated for its 20th-century art, masterfully integrated its heritage with 21st-century technology. NRM streamlined its tech infrastructure into a single source of truth, enabling the creation of a donor portal and an integrated ticket-purchasing tool. Additionally, they have incorporated marketing automation directly tied to user data and engagement so they can deliver relevant and timely messages. Witness firsthand how NRM leveraged user data and engagement to shape a transformative future, offering attendees actionable insights and invaluable lessons from their remarkable journey. This presentation promises to inspire and enlighten, illuminating the role of innovation and data-driven marketing automation in the evolution of cultural institutions in the digital era.Register here.

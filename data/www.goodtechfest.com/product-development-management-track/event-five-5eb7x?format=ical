@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:65d8c5186ae43f5744ed1489@squarespace.com
+DTSTAMP:20240419T023812Z
+DTSTART:20240502T190000Z
+DTEND:20240502T194500Z
+SUMMARY:Transforming Nonprofit Operations: Leveraging Product Management Pr
+ inciples for Technological Advancement
+END:VEVENT
+END:VCALENDAR

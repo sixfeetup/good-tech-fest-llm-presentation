@@ -1,0 +1,42 @@
+Name: Adrien Ogee
+Title: Cyber for good
+Occupation: Chief Operations Officer at CyberPeace Institute
+Bio: Hi! I'm Adrien, currently Chief Operating Officer at the CyberPeace Institute in Geneva, Switzerland. 
+
+With a 15+ years career in cybersecurity, I'm a lifelong learner with academic credentials, including an MEng in Telecommunication, an MSc in Global Security and an MBA.
+
+A leader-doer at heart, I thrive on solving complex challenges and venturing into new grounds. Throughout my journey, I've been a transformative force in cyber crisis response at both national and international levels. I’ve been leading teams in the public, private, and nonprofit sectors, and won innovation awards for security programs we built. My proficiency in French, English, Spanish, and Portuguese has proven instrumental in these endeavours.
+
+Driven by a deep passion for creating innovative solutions in cybersecurity, I find excitement in turning ideas into impactful programs to protect those who can't protect themselves. 
+
+I’m always open to chat with new people and exchange perspectives on all-things cyber. And equally open to do sports or play games. 
+
+Reach out!
+Country: Switzerland
+
+    Title/Company: Chief Operations Officer at CyberPeace Institute in Geneva, Switzerland from Month: 5,Year: 2020 to Month:  year:  doing ⋅ Management of a distributed, integrated team (cyber, product, marketing & sales)
+⋅ Award-winning delivery of operational cybersecurity to 200+ NGOs worldwide
+⋅ Agile development of security tools, in-house development + integration (LookerStudio, Hubspot, etc.)
+⋅ Sales/fundraising, regular contact with 300+ cybersecurity CxOs, governments and philanthropists
+⋅ Strategic leadership, direct reporting to CEO and board
+⋅ Regular speaker at cybersecurity conferences and in international press
+
+    Title/Company: Lead, Cyber Resilience, Centre for Cybersecurity at World Economic Forum in Geneva Area, Switzerland from Month: 9,Year: 2018 to Month: 4 year: 2020 doing ⋅ Educated CxOs on cybersecurity innovation at global events in Davos, Dalian, Amman, Geneva...
+⋅ Led public private coalitions on topics such as blockchain security and passwordless authentication
+⋅ Founded a web platform to train boards of directors on cyber crisis response
+⋅ Authored numerous papers and articles
+
+    Title/Company: Senior cybersecurity expert at European Union Agency for Cybersecurity (ENISA) in Athens, Greece from Month: 12,Year: 2014 to Month: 8 year: 2018 doing ⋅ Created the first EU cyber crisis procedures. Led the operational response to crises like WannaCry
+⋅ Founded OpenCSAM, an open source intelligence tool for cyber situational awareness
+⋅ Organised 50+ cyber crisis trainings and award-winning simulations, team management
+⋅ Launched the cybersecurity innovation lab (IOT research, drone security, AI, etc.).
+⋅ Policy support to EU Commission and governments on crisis response, 0-days, AI...
+
+    Title/Company: Cybersecurity inspector at ANSSI - Agence nationale de la sécurité des systèmes d'information in Paris Area, France from Month: 1,Year: 2010 to Month: 11 year: 2014 doing ⋅ Led multi-expertise teams on incident response, threat analysis, cyber exercises...
+⋅ Led international relationships with strategic partners
+
+    Title/Company: Key Account Manager, NATO and EU at Thales in Brussels Area, Belgium from Month: 11,Year: 2007 to Month: 12 year: 2009 doing ⋅ Intelligence on EU and NATO in-theatre cybersecurity operations
+⋅ Business development on large scale projects (up to 100M€), reporting to executive committee
+
+    Title/Company: R&D intern, industrial cybersecurity at Technische Universität Wien in Vienna, Austria from Month: 9,Year: 2005 to Month: 2 year: 2006 doing ⋅ Secured a communication protocol used in building automation/SCADA systems (BACNET) by implementing the stack on a smart card. Programming in JavaCard, networking, crypto.
+

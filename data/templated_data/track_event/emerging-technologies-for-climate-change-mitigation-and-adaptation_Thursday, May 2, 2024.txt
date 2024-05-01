@@ -1,0 +1,6 @@
+Speakers: Isana Nambiar
+Event Title: Emerging Technologies for Climate Change Mitigation and Adaptation
+Event Date: Thursday, May 2, 2024
+Event Start Time: 8:00 AM
+Event End Time: 8:45 AM
+Event Description: In this session we will discuss three real-world case studies from India on how AI/ML, Remote Sensing and Web3 technologies are being harnessed for climate change mitigation and adaptation. The case studies will broadly cover recent advances in the following application areas: a. Early-stage detection of devastating crop diseases to prevent yield destruction b. Remote mapping, monitoring and trend analysis of soil health and agroforestry data on smallholder farms c. ReFi (Regenerative Finance) for ensuring traceability and transparency in carbon removal projectsRegister here.

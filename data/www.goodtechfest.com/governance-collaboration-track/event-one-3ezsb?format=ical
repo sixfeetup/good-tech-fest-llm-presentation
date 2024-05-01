@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:65d8c716560bae5cf97593bf@squarespace.com
+DTSTAMP:20240419T044221Z
+DTSTART:20240502T180000Z
+DTEND:20240502T183000Z
+SUMMARY:A public-private collaboration to improve the quality of data and t
+ he value of data-driven decision-making in the prehospital healthcare sett
+ ing
+END:VEVENT
+END:VCALENDAR

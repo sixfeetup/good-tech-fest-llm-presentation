@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:65f35c86bce29f02e70d7157@squarespace.com
+DTSTAMP:20240422T152925Z
+DTSTART:20240502T163000Z
+DTEND:20240502T171500Z
+SUMMARY:Leveraging AI for Information Extraction from Financial Documents: 
+ Lessons from Developing Grant Guardian
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,6 @@
+Speakers: Sana Farooqui, Lexa Wilson
+Event Title: Technical Workshop - Getting What You Want from the GivingTuesday 990 Data Infrastructure
+Event Date: Thursday, May 2, 2024
+Event Start Time: 2:00 PM
+Event End Time: 3:00 PM
+Event Description: From 990 tax data represents a wealth of potential insights about the social sector for research purposes, product development, and more. But data complexity and technical barriers to accessing and leveraging this open data set have prevented greater use. GivingTuesday, in collaboration with sector partners have addressed this challenge by building a platform that enables use of this core sector dataset. In this session, GT Director of Projects and Senior Data Engineer give insight into how to leverage the open GT open 990 Data infrastructure and lead a discussion on what we can do to improve its assets and tools for sector needs.Register here.

@@ -1,0 +1,6 @@
+Speakers: Zak Kaufman
+Event Title: The Future of Impact Reporting: Practical Solutions for Current Challenges
+Event Date: Thursday, May 2, 2024
+Event Start Time: 1:00 PM
+Event End Time: 2:00 PM
+Event Description: In the world of impact reporting, Funders and NGOs alike grapple with data being siloed, hard to access, and stuck in documents or portals. Organizations spend over 150M hours on impact reporting annually. Additional challenges of reporting requirement overload, interoperability costs, knowledge gaps, and the absence of data standards, all result in a general lack of trust in reported impact data. In this interactive session, participants will explore a future where organizations can easily and centrally share aggregated impact data with their stakeholders. We’ll discuss and debate whether a single central platform could meet the needs of both implementers and funders, potentially saving the sector millions of person-hours per year. We will discuss key prerequisites, drivers, and blockers for achieving impact data sharing and publishing at scale. Finally, we will give a short product demonstration at the end of the session, before wrapping up with key takeaways.Register here.

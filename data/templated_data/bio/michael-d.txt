@@ -1,0 +1,14 @@
+Name: Michael D.
+Title: Advisor
+Occupation: Board Member at WebServes
+Bio: None
+Country: United States of America
+
+    Title/Company: Advisor at NewSky Ventures in Remote from Month: 1,Year: 2023 to Month:  year:  doing None
+
+    Title/Company: Board Member at WebServes in None from Month: 8,Year: 2023 to Month:  year:  doing None
+
+    Title/Company: Principal Consultant at Amazon Web Services (AWS) in Seattle, Washington, United States · Remote from Month: 1,Year: 2015 to Month: 12 year: 2023 doing None
+
+    Title/Company: Chief Technology Officer at BoomZip in Remote from Month: 1,Year: 2013 to Month: 12 year: 2014 doing None
+

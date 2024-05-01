@@ -1,0 +1,43 @@
+Name: Paul Collier
+Title: Helping growing nonprofits leverage data more effectively.
+Occupation: Founder & Principal Consultant at Coeffect
+Bio: I am a values-driven, analytical leader who works with social sector organizations to help them make a greater impact. In my 8+ years working in nonprofits and consulting, I've worked with organizations ranging from food banks and family resource centers to social enterprise accelerators and mobile apps. 
+
+I founded Coeffect so that I could help small and mid-size nonprofits get to the next level. Think of us as your outsourced Director of Learning & Evaluation. This means we help nonprofits and social enterprises put in place the fundamentals of program strategy, data collection, and data systems they need to grow. 
+
+The technical skills I bring to the table include: 
+- Significant experience with data analysis tools including R, Tableau, Excel, and other reporting tools 
+- Qualitative coding and quantitative statistical testing
+- Data system requirements design and assessment
+- Deep experience with Salesforce configuration, administration, third-party integrations, and reporting
+Country: United States of America
+
+    Title/Company: Founder & Principal Consultant at Coeffect in Greater Denver Area from Month: 9,Year: 2012 to Month:  year:  doing I founded Coeffect because so many small and mid-sized nonprofits are held back by data. Funders invest in organizations that can show they catalyze positive change in their communities. While we're starting to see a positive shift in what kinds of information "count" in funding decisions, the reality is that systematically collected evidence of effectiveness still matters a great deal. Many smaller organizations don't have the time, knowledge, or skills on staff to do this work well.
+
+As of mid-2020, Coeffect has helped 25+ organizations establish the fundamentals of their data practice. This includes building a Theory of Change that reflects the latest research and integrates thier community's lived experience. It also includes helping organizations create an intentional agenda for learning, identify metrics to monitor, and collect quantitative and qualitative data over time so they can continuously improve. 
+
+At Coeffect I work with a talented team of other consultants who complement my experience. In our work, we embrace technology. We've helped many of our clients establish effective Salesforce systems to hold information about and empower effective communication with their stakeholders. We are proficient in a range of data collection tools and the ways these tools connect with other systems. Finally, we've helped many organizations use data visualization tools like Tableau and Metabase to effectively communicate about their impact.   
+
+Learn more at our website: www.coeffect.co.
+
+    Title/Company: Data and Evaluation Manager at San Francisco Child Abuse Prevention Center in San Francisco Bay Area from Month: 9,Year: 2014 to Month: 8 year: 2016 doing Served as Safe & Sound's internal evaluator for it's Family Resource Center. Responsibilities included: 
+- Leading the organization's first strategic analytics project, generating insights that drove program changes; Results were shared with staff; executives, and major foundations
+- Redesigning cross-functional processes for data entry and reporting, saving staff time and improving the user experience 
+- Redesigning 50+ key reports and dashboards at all levels of the organization to enable data-informed decision-making
+- Facilitating data literacy trainings and creating 30+ procedure guides to support data system use
+- Creating an organization-wide Information Security Policy, setting clear expectations around handling digital and physical information about clients, volunteers, and donors
+
+    Title/Company: ProInspire Fellow at ProInspire in San Francisco Bay Area from Month: 9,Year: 2014 to Month: 9 year: 2015 doing ProInspire recruits business professionals who want to use their skills for social impact and invest in a growing community of Fellows. Fellows spend one year working in an analytical or strategic role at a leading nonprofit organization in the San Francisco Bay Area or Washington DC. More at: www.proinspire.org
+
+    Title/Company: Senior Business Process Consultant at Protiviti in San Francisco Bay Area from Month: 8,Year: 2012 to Month: 9 year: 2014 doing Protiviti is an international consulting company born out of Arthur Anderson's internal audit consulting division.  I served as an internal audit process consultant and worked with clients ranging from Community Development Financial Institutions and Community Foundations to newly-public technology companies.
+
+    Title/Company: Process Intern at Protiviti in None from Month: 5,Year: 2011 to Month: 8 year: 2011 doing None
+
+    Title/Company: Advisory Services Fellow at Taproot Foundation in San Francisco Bay Area from Month: 5,Year: 2012 to Month: 8 year: 2012 doing The Taproot Foundation is the United States’ largest provider of professional services to non-profit organizations. As a Fellow in Taproot’s advisory services group, I created pro-bono training toolkits and evaluated pilot programs through interviews and by writing case studies.
+
+    Title/Company: Marketing and Sales Intern at Alliance for Audience in Phoenix, Arizona Area from Month: 8,Year: 2011 to Month: 12 year: 2011 doing Alliance for Audience was a small, technology-based 501c3 focusing on providing ways for local arts organizations to further grow their audience. At Alliance for Audience, I designed, built, deployed, and analyzed two surveys to benchmark the organization's success against its mission, reaching over 25,000 subscribers.
+
+    Title/Company: Research Assistant at Arizona State University - Walter Cronkite School of Journalism and Mass Communication in None from Month: 1,Year: 2010 to Month: 5 year: 2011 doing None
+
+    Title/Company: Operations Coordinator at Teach For America in None from Month: 1,Year: 2010 to Month: 11 year: 2010 doing As an Operations Coordinator for Teach for America, I executed key components of a training institute where 600+ college graduates became teachers for low-income New York students.
+

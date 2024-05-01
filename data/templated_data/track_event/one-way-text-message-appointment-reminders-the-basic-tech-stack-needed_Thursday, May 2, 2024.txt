@@ -1,0 +1,6 @@
+Speakers: Katherine Moose Hunt, Lily Gleicher
+Event Title: One-Way Text Message Appointment Reminders: The Basic Tech Stack Needed
+Event Date: Thursday, May 2, 2024
+Event Start Time: 10:15 AM
+Event End Time: 10:45 AM
+Event Description: Have you ever wanted to automate sending appointment reminders? We'll cover when is an appointment reminder system should be a good fit, example SMS appointment reminder system tech stack, and compliance considerations of setting up automated appointment reminders to help the community/communities you support.Register here.

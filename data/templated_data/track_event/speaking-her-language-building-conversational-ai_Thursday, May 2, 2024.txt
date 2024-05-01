@@ -1,0 +1,6 @@
+Speakers: Karina Rios Michel
+Event Title: Speaking Her Language, Building Conversational AI
+Event Date: Thursday, May 2, 2024
+Event Start Time: 3:00 PM
+Event End Time: 3:30 PM
+Event Description: Girl Effect's AI-powered chatbot, Big Sis, reaches girls in South Africa, India, and Kenya at scale through platforms such as WhatsApp and Facebook Messenger. Big Sis offers a private online space where girls can access trusted and non-judgmental advice on critical topics such as sex, STIs, HIV prevention, and mental health. With a user base of half a million, Girl Effect's chatbot has garnered notable recognition, including being finalists for the Fast Company 2022 World Changing Idea Award, shortlisted for the 2022 GLOMO Award in the category of Best Mobile Innovation for Emerging Markets, recipients of the Global Digital Health Innovation Award 2022, and winners of the Shorty Award 2023. Since 2020, Girl Effect has harnessed the power of AI to process and understand low-resource, mixed-coded languages such as Hinglish (Hindi+English) and Kenyan Sheng, enabling the chatbot to address girls' questions at scale.Register here!

@@ -1,0 +1,6 @@
+Speakers: Victor Cordon
+Event Title: Digital Protection for the World's Most Vulnerable
+Event Date: Thursday, May 2, 2024
+Event Start Time: 11:00 AM
+Event End Time: 11:45 AM
+Event Description: Nonprofits are the second most attacked sector when it comes to cyber threats; yet 59% of large humanitarian and development actors believe that their own cybersecurity and information security practice is underfunded, and 65% believe it is inadequately managed. This puts all of our communities at our most vulnerable at risk.  Join Okta, Nethope, CyberPeace Institute and UC Berkeley Center for Long-Term Cybersecurity for a panel discussion on how they are meeting this challenge with data, partnership and new programs to support nonprofits with practical advice to shore up their security posture. Register here.

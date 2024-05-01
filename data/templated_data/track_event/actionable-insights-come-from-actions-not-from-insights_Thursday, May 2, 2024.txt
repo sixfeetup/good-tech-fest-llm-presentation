@@ -1,0 +1,6 @@
+Speakers: Chris Kucharczyk
+Event Title: Actionable insights come from actions, not from insights
+Event Date: Thursday, May 2, 2024
+Event Start Time: 10:15 AM
+Event End Time: 10:45 AM
+Event Description: Data scientists and analysts are often asked to extract so-called "actionable insights" from data. But whether an insight is "actionable" isn't determined by the quality of the insight or the skill of the analyst—it's determined by the context and capabilities of the organization driving the analysis. In this talk, I'll highlight common failure modes of data work that frustrate both organizations and analysts, and I’ll propose an approach that delivers actionable end products from any data analysis.Register here.

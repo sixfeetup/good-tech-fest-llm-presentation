@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:65ce7f8ec414bd701a1fef53@squarespace.com
+DTSTAMP:20240419T010849Z
+DTSTART:20240502T120000Z
+DTEND:20240502T124500Z
+SUMMARY:Connecting Art and Innovation: Norman Rockwell Museum’s Digital Tra
+ nsformation
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,6 @@
+Speakers: Malur Narayan
+Event Title: Building an inclusive AI - benchmarking and mitigating bias in LLMs
+Event Date: Thursday, May 2, 2024
+Event Start Time: 12:00 PM
+Event End Time: 12:45 PM
+Event Description: “Latimer" is an innovative AI-driven platform designed to revolutionize the way writers, marketers, students, researchers, and businesses engage with Black and Brown audiences driven from black and brown narratives- via factual texts and historical documents. This tool is aimed at preserving, analyzing, and making accessible the rich tapestry of history and culture through the power of LLMs. Latimer is also building a framework and approach for ensuring LLMs can be evaluated for various types of bias by creating benchmarks and assessment metrics that be applied to mitigate bias. Register here!

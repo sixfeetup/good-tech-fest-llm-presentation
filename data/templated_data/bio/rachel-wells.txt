@@ -1,0 +1,54 @@
+Name: Rachel Wells
+Title: Leading DataKind's Center of Excellence
+Occupation: Senior Manager, Center of Excellence at DataKind
+Bio: I do what I can to increase the likelihood that "data science and AI for social good" actually does good. 
+
+This includes project scoping, leading volunteer teams of data professionals, capacity building, process codification, project quality assurance, cross-functional communication, impact measurement, ethical review, program management, learning dissemination, volunteer training, participatory design, evaluation, launching new programs, systems thinking, knowledge management, strategic planning, change management, technical translation, and product management.
+Country: United States of America
+
+    Title/Company: Technical Coordinator, Global Research and Data Support at 
+          Innovations for Poverty Action
+ in Washington DC from Month: 10,Year: 2018 to Month: 3 year: 2020 doing - Owned global research and data science training strategy and implementation
+- Managed international network of Technical Influencers who provide data support, ensure compliance in their country offices, and contribute to technical resource development
+- Led and organized in-person Global Staff Training and Regional Research & Data Summits
+- Facilitated Design and Agile Sprints for building tools to address organizational challenges
+- Built and delivered technical training content (in-person & remotely)
+- (10/2018-04/2019) Acting Research Associate in Liberia for monitoring and evaluating solar power systems in maternal health clinics; activities included endline data collection, analysis, and report writing
+
+    Title/Company: Data Analyst, Poverty Measurement at 
+          Innovations for Poverty Action
+ in Washington D.C. Metro Area from Month: 8,Year: 2017 to Month: 9 year: 2018 doing - Statistical learning predictive modeling to create poverty measurement tool (PPI)
+- Project management and development process flow mapping
+- Provide technical support to users, present at conferences, and meet with donors to secure funding 
+- Data analysis and poverty rate calculations using national household consumption and income surveys of low and middle income countries
+- Survey design and interview guide creation in French, Spanish, and English
+- Communicate with stakeholders in the field for data acquisition, in-country feedback and support for survey design
+
+    Title/Company: Data Scientist / Client Technical Specialist at IBM in Washington D.C. Metro Area from Month: 7,Year: 2015 to Month: 8 year: 2017 doing - Analyzed data, implemented projects, built predictive models, interpreted data, and communicated results in reports and presentations
+- Helped clients innovate, strategize, and make data-driven decisions
+- Built software demonstrations, trained users, and presented to executives
+- Considered predictive modeling, business intelligence, statistics, and data science subject matter expert for top-tier communications industry clients 
+- Consistently rated as top performer across all reviews; received 2015, 2016, & 2017 Manager’s Choice Awards
+- Completed IBM’s Summit training for client relationships and technical training for predictive analytics with top performance ratings
+
+    Title/Company: Quantitative Researcher at Prosper Waco in Waco, Texas Area from Month: 8,Year: 2014 to Month: 5 year: 2015 doing - Defined the quantitative metrics that aid efforts should use for monitoring and evaluation of qualitative community improvement goals in education, health, and financial security through literature review and econometric analysis
+- Conducted statistical analysis and creating projections of county progress in these areas using multivariate time series panel data and multilevel mixed-effects models: readiness to learn for children entering kindergarten, reading proficiency, career ready, 8th grade cohort completion, food environment index, food insecurity, health insurance, access to healthcare, physical activity, teen pregnancy, employment, poverty rates, and more
+- Independent research project accumulating with a 78-page written report and several oral presentations to key city leaders
+
+    Title/Company: Senior Manager, Center of Excellence at DataKind in Waco, Texas Area from Month: 3,Year: 2020 to Month: 5 year: 2015 doing Launched and currently leading DataKind's new cross-discipline team of experts dedicated to creating an ecosystem of quality, ethics, innovation, learning, impact, data, and community across DataKind's global network and all programs. Responsible for: 
+- Leading DataKind's AI for good project scoping to ensure all projects are feasible, impactful, and ethical
+- Creation of DataKind's Playbook: process mapping, documenting best practices, and creating user-centered resources for all staff and volunteers implementing DataKind's project
+- Managing volunteer teams and skills-based volunteer programs
+- Quality assurance system codification and implementation 
+- Training staff and volunteers on processes and best practices
+- Creation of project impact measurement, monitoring, evaluation, reporting, and tracking systems and processes
+- Research to inform continuous learning and improvement on products and processes
+- Strategic planning and management of the Center of Excellence
+- Providing direct support on DataKind projects
+- Directly supervising one employee
+
+    Title/Company: Analytics Intern at World Vision in Federal Way, WA from Month: 5,Year: 2014 to Month: 8 year: 2014 doing - Created multivariate regression model to improve the forecasting for child sponsorship rates
+- Created a statistically-based impact evaluation system for products’ efficacy through comparison and factor analysis
+- Survey creation, data collection, strategy implementation, and analytics report production for pilot fundraising program
+- Independently worked on these three projects simultaneously under tight deadlines and presented results to leaders
+

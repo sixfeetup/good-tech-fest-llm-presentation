@@ -1,0 +1,90 @@
+Name: Paul Pham
+Title: Technical Lead at Pariveda
+Occupation: Senior Associate at Pariveda
+Bio: I love solving problems. Problems are everywhere in the world and they're the main ingredient for innovation, enabling the world to move towards a better tomorrow. Hence, I have decided to pursue a career in Software Consulting, allowing me to solve critical problems that fulfill the needs of others.
+Country: United States of America
+
+    Title/Company: Senior Associate at Pariveda in Los Angeles Metropolitan Area from Month: 12,Year: 2021 to Month:  year:  doing *** Senior Tech Lead @ Fortune 500 Commercial Bank ***
+•	Lead a team to design AWS serverless architecture  with Terraform, Apigee, and internal backend APIs to upload and process confidential documents, eliminating the manual process of faxing and storing documents
+•	Integrate AWS services into React web application to create a data ingestion pipeline
+•	Create an analysis framework to assist developers in estimating story points, reducing sprint roll-over stories by 30%
+
+*** Culture Advocate Lead @ Firm ***
+•	Host quarterly interactive webinars with company Vice Presidents and Principals to learn more about their career track and advice, resulting in a stronger connection between executive team and employees
+
+    Title/Company: Associate at Pariveda in Los Angeles, California, United States from Month: 12,Year: 2020 to Month: 12 year: 2021 doing *** Tech Lead @ National Psychoeducation Non-Profit ***
+•	Led a team of 5 engineers to implement a video management and tagging feature to group over 500GB of videos into 38 easily searchable categories, which increased user session duration by 50%
+•	Created and prioritized 20 user stories using the MoSCoW method, thus enabling developers to build and test the minimal viable product before the intended product release date
+
+*** Tech Lead @ Fortune 100 Telecommunications Company ***
+•	Developed an internal application using C# and Vue.js to help customers purchase the correct amount of equipments and accessories to build cell towers without a 4-week delay
+•	Solutioned an angular web app that visualizes cell-tower connections and generates scripts to support network engineers in configuring physical cell towers, resulting in the expansion of 5G networks
+•	Facilitated bi-weekly production deployment, sprint planning and retrospective to provide timely deliverables
+•	Designed 24 API endpoints consumed by 5 teams to perform CRUD operations on MongoDB, decreasing duplicated workload across all teams
+•	Coached 3 junior developers through bi-weekly code reviews, thus improving code maintainability and eliminating 15 top-priority bugs within 2 sprints
+•	Mentored 2 junior developers through 1-on-1 sessions and writing semi-annual reviews, helping the developers achieve their annual promotions
+
+*** Consultant Advocate Lead @ Firm ***
+•	Tracked key metrics for mental wellness of employees and proposed solutions to executive team, reducing burnout rates by 40%
+
+    Title/Company: Senior Consultant at Pariveda in Greater Los Angeles Area from Month: 12,Year: 2019 to Month: 12 year: 2020 doing *** Senior Software Engineer @ Leading Tax Financial Company ***
+•	Developed 26 reusable Vue.js components to revamp customer-facing web app, increasing users’ click-through rate by 5%
+•	Created an Extract, Transform, Load (ETL) tool with .NET Core, C#, and Python to automatically convert 80% of legacy markup language files into JSON files for a re-designed web app, thus improving user interface and experience
+•	Integrate 290 unit tests into DevOps Pipeline using YAML to satisfy client’s branch code coverage benchmark of 75%
+•	Converted outdated C++ console application and mapped its functionality over to .NET Core application 
+•	Presented a 1-hour lecture on Unit Testing, Code Coverage, and Build Pipeline concept and demonstrated its application with hands-on lab
+
+*** Senior Software Engineer @ Hackathon for Social Good ***
+•	Developed an AWS data analysis and machine learning pipeline to understand wealth inequality, predicting that racial wealth gap is increasing by 7%
+
+    Title/Company: Consultant at Pariveda in Los Angeles from Month: 9,Year: 2018 to Month: 12 year: 2019 doing *** Cloud Engineer @ Leading Gas and Electric Company ***
+•	Performed database and environment rationalization to help migrate on-premise virtual machines to the cloud, resulting in a $1.5 million spending reduction
+•	Analyzed disk, central processing unit, and memory utilization rate with Power BI and Excel pivot tables to consolidate 813 virtual servers living on 25 colocation racks down to 624 virtual servers living on 15 colocation racks
+•	Utilized Azure Migration Project and Site Recovery to perform lift and shifts on 55 virtual machines to the cloud
+
+*** Internal Learning Representative @ Firm ***
+•	Presented a 2-hour lecture on Reinforcement Learning concept and demonstrated its application with hands-on lab
+
+    Title/Company: Software Consultant Intern at Pariveda Solutions in Greater Los Angeles Area from Month: 6,Year: 2017 to Month: 8 year: 2017 doing •	Consulted with client to develop a prototype predictive incentive offering chat bot that uses Artificial Intelligence and Machine Learning to communicate personalized incentives to customers
+•	Applied Alpha Smoothing and Price Elasticity concepts into R to create a forecast on the sales data and produce incentives to drive up demand
+•	Utilized 5 Amazon web services and 5 frameworks to generate and test a full stack integration of the bot to client's website
+•	Collaborated with a team of 3 programmers, 1 lead developer, and 1 project manager to implement an agile methodology, consisting of 3 3-week sprints to successfully present and demo to clients higher-level management
+
+    Title/Company: Founder at Royal Merch in Irvine, California, United States from Month: 3,Year: 2018 to Month: 2 year: 2020 doing •	Created a private-labeling business selling a health-related product through Fulfillment by Amazon, producing a consistent average sale of 3 products a day
+•	Negotiated deals with 14 overseas suppliers to minimize the cost of investments in products while maintaining high quality
+•	Utilized pay-per-click advertisements to increase organic product sales by 425% and total over 100,000 impressions within a month
+•	Reduced the Advertising Cost of Sale from 407.14% to 59.71% by researching and out-bidding for the top 5 most searched keywords
+•	Started an e-commerce store by developing a program using Excel and Python to calculate a weighted score that determines the potential success of products, producing a consistent average sale of 3 products a day
+
+    Title/Company: Vice President of Scholarship at University of California, Irvine Interfraternity Council in University of California, Irvine from Month: 11,Year: 2015 to Month: 12 year: 2016 doing •	Oversaw the entire Greek Community of over 2,500 members  and promoted the idea of interfraternalism among all fraternities members.
+•	Coordinated five workshops per quarter regarding scholarships and career development for the Greek Community in order to place importance on education.
+•	Cooperated with the Panhellenic Association and Multicultural Greek Council to execute quarterly scholarship events to reward members' academic achievements.
+•	Managed a budget ranging up to $500 for each scholarship-related event in order to determine the logistics to make all events successful.
+•	Led quarterly roundtable discussions for Presidents, Scholarship Chairs, and New Member Educator of each IFC Chapter once every quarter to determine the best fit program to be implemented.
+
+    Title/Company: Data Analytics Teaching Assistant at Trilogy Education in Irvine, CA from Month: 5,Year: 2019 to Month: 12 year: 2019 doing •	Mentored 20 students to integrate Agile best practices into 3 projects by acting as their Scrum Master in a 24-week course
+•	Provided guidance to 20 students to solve and debug 15 homework and 3 projects
+•	Strengthened students' knowledge in Excel, Tableau, R, Python, JavaScript, HTML/CSS, Pandas, API Interaction, SQL, Machine Learning, and Amazon Web Services by drawing on whiteboard and explaining using analogies to enable students to quickly grasp the core idea of the concepts
+•	Reinforced data analytics concepts by requesting students to complete a writeup for each homework that describes how their program allows them to produce correlations between data sets
+
+    Title/Company: Scholarship Coordinator, Events Coordinator at Phi Gamma Delta in Irvine, CA from Month: 10,Year: 2014 to Month: 6 year: 2018 doing •	Formed a bylaw changing the chapter scholarship standards, thus improving the overall GPA from 2.54 to 3.04 and becoming the 3rd most-scholarly greek chapter on campus
+•	Contributed efforts to our annual philanthropy called Lifeguard and encouraging all participants to partake in planned activities, therefore raising over $8300
+•	Planned a social venue event with a budget of $2500, resulting in over 150 attendees
+
+    Title/Company: Resident Advisor at UC Irvine in Irvine, CA from Month: 8,Year: 2017 to Month: 6 year: 2018 doing •	Promoted a welcoming and inclusive living environment for 50 residents in 2 residents halls by organizing 7 quarterly programs aimed to foster inter-community relationships
+•	Collaborated with 3 residents advisors to host a joint program for alcohol awareness, connecting the University of California, Irvine Police Department with residents of the housing community to share knowledge on the topic of safety in college
+•	Participated in 4 quarterly social justice education programs to promote inclusivity within residence halls, allowing residents to feel safe and comfortable
+•	Hosted a presentation and discussion with Professional and Student Staff on the topic of Suicide Awareness and Prevention to raise proactivity on mental health in the housing community
+•	Communicated with 2 Resident Life Coordinators in regards to emergency calls and enforced university policy to create a safe environment to minimize housing violations
+
+    Title/Company: Video Editor, Flyer Designer at UC Irvine in Irvine, CA from Month: 11,Year: 2014 to Month: 6 year: 2018 doing •	Utilized InDesign and Adobe Photoshop software to create advertisements for 75% of the department, increasing the attendance of events by 20%.
+•	Designed a nine-minute stop-motion animation project with Sony Vegas software to become the first animated video made in the Oral History archive.
+
+    Title/Company: Information Technology Data Analysis Intern at Verizon in Irving, Texas from Month: 6,Year: 2016 to Month: 8 year: 2016 doing •	Proposed a high-level architectural design for a recommendation engine that deals with analyzing big data that portrays customers’ past behavior and predict their future actions in order to upsell Video on Demands.
+•	Learned and utilized Apache Spark Platform, Hive QL, and Python programming to build a model suited that would provide a relatively accurate root-mean squared error of 0.75.
+•	Presented hour-long demo to the executive director, influencing him to push the project into production.
+•	Developed an Amazon Echo skill set that offers the integration of Verizon’s HUM application in 18 hours and advanced to the semi-final rounds of Intern Hackathon competing against 101 interns.
+
+    Title/Company: Lab Tutor – Intro to Programming, Software Libraries, Intermediate Programming (Python) at UC Irvine Donald Bren School of Information and Computer Sciences in Irvine, CA from Month: 9,Year: 2015 to Month: 1 year: 2016 doing •	Diagnosed defects in code and explain the reasons for bugs by guiding students through 10 coding assignments in a lab of 40+ students.
+•	Demonstrated object-oriented programming concepts to students 3 times a week by illustrating practical approaches to problems.
+

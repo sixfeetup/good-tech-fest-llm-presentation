@@ -1,0 +1,6 @@
+Speakers: Mike Dixon
+Event Title: Responding to a Ransomware Attack: A Cybersecurity Dilemma
+Event Date: Thursday, May 2, 2024
+Event Start Time: 10:15 AM
+Event End Time: 10:45 AM
+Event Description: Ransomware has become a major cyber threat in recent years to make headlines and criminal organizations have been increasingly targeting nonprofits, as seen in some notable recent cases. In a scenario where your data and applications are being held hostage, how do you respond to such an event? And how can you mitigate this type of threat before it happens? Also, what is being done on a larger scale to address this activity which is an increasing risk for both commercial and nonprofit organizations? This session will provide practical guidance on addressing ransomware along with highlighting several other emerging security threats that organizations for good need to be prepared for.Register here.

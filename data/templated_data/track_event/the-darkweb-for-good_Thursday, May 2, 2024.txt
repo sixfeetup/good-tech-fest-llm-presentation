@@ -1,0 +1,6 @@
+Speakers: Mike Dixon
+Event Title: The Darkweb for Good
+Event Date: Thursday, May 2, 2024
+Event Start Time: 8:00 AM
+Event End Time: 8:45 AM
+Event Description: In 2024, Tor and other darknet technologies are well known but still remain a mysterious phenomenon often associated with nefarious activities and cybercrime. This session explores examples of how organizations are leveraging the dark web for good, from ensuring privacy rights of citizens to countering human trafficking. The session will include a brief demo and discuss emerging trends related to this topic.Register here.

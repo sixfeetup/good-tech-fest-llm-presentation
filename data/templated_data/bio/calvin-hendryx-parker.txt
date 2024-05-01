@@ -1,0 +1,40 @@
+Name: Calvin Hendryx-Parker
+Title: 2023 Tech Exec of the Year | AWS Hero | Python, AI, Orchestration & Containers | CTO and Founder | IndyPy & IndyAWS
+Occupation: Chief Technology Officer at Six Feet Up, Inc.
+Bio: Calvin Hendryx-Parker is the co-founder and CTO of Six Feet Up, a Python web application development company established in 1999. At Six Feet Up, Calvin establishes the company's technical vision and leads all aspects of the company's technology development. He provide the strategic vision for enhancing the offerings of the company and infrastructure, and works with the team to set company priorities and implement processes that will help improve product and service development.
+
+In 2019, Calvin was selected as an AWS Community Hero. He is among a select few individuals to receive this title. The AWS Hero program recognizes his community impact, industry knowledge, and excitement for sharing his AWS expertise.
+
+Moved by an ever burning desire to learn new technology, Calvin believes that programing knowledge should be open, available, accessible, friendly and engaging. At Six Feet Up, he has established a knowledge-sharing culture to enhance the effectiveness of operations and professionals both in his company and for his clients.
+
+In 2007, Calvin founded IndyPy, the local Python user group, with the goal of finding the tech community in Indiana. More recently Calvin has become Eleven Fifty Academy’s official Python and Django teaching partner, and is an Iron Yard Indianapolis Advisory Board Member. He worked with TechPoint Foundation for Youth to help build the world's largest network of Coder Dojos and was nominated Tech Educator of the Year in 2016 at the Mira Awards.
+
+Calvin is a Purdue graduate with an ever burning desire to learn new technology.
+Country: United States of America
+
+    Title/Company: AWS Community Hero at Amazon Web Services (AWS) in None from Month: 11,Year: 2019 to Month:  year:  doing The AWS Hero program recognizes a vibrant, worldwide group of AWS experts whose enthusiasm for knowledge-sharing has a real impact within the community.
+
+    Title/Company: Founder at IndyAWS in None from Month: 1,Year: 2017 to Month:  year:  doing None
+
+    Title/Company: Co-Founder at IndyPy in Indianapolis, Indiana Area from Month: 4,Year: 2007 to Month:  year:  doing None
+
+    Title/Company: Chief Technology Officer at Six Feet Up, Inc. in Fishers, Indiana from Month: 1,Year: 2003 to Month:  year:  doing Responsible for establishing the company’s technical vision and leading all aspects of the company’s technology development. Provide the strategic vision for enhancing the offerings of the company and infrastructure.  Work with the team to set company priorities and implement processes that will help improve our product and service development.
+
+Continually refining our skills at developing and deploying Python, Django and Pyramid Web Applications and APIs.
+
+    Title/Company: Instructor at Eleven Fifty in Carmel, IN from Month: 2,Year: 2015 to Month: 2 year: 2019 doing Teaching budding programmers using Python in a 5 day immersive program where students learn the basics of computer programming including Syntax, Variables, Constants, Loops, If Logic, Functions, Objects, and Inheritance.
+
+Taking the course to the next level by instructing students how to leverage Python & Django to build web applications and connect them to a server.
+
+    Title/Company: President at Plone Foundation in None from Month: 10,Year: 2010 to Month: 11 year: 2011 doing Leading the efforts to protect and promote the Plone Open Source project.
+
+    Title/Company: Vice-President at Plone Foundation in None from Month: 10,Year: 2009 to Month: 10 year: 2010 doing Helping to lead the efforts to protect and promote the Plone Open Source project.
+
+    Title/Company: System Engineer at Epylon Corporation in San Francisco, California, United States from Month: 2,Year: 2000 to Month: 1 year: 2003 doing Implemented ERP systems, deployed marketplace application servers and spearheaded network trouble-shooting. Optimized web performance for a large B2B ERP application.
+
+    Title/Company: User Interface/Web Developer at MGI Software in San Francisco, California, United States from Month: 9,Year: 1999 to Month: 2 year: 2000 doing UI/UX development for commercial photo management and creativity software.
+
+    Title/Company: UNIX Systems Administrator at Manex Visual Effects in None from Month: 4,Year: 1999 to Month: 9 year: 1999 doing FreeBSD server wrangler
+
+    Title/Company: UI Engineer at Live Picture in None from Month: 8,Year: 1998 to Month: 4 year: 1999 doing UI/UX development for commercial photo management and creativity software.
+

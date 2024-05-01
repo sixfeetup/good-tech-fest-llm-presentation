@@ -1,0 +1,6 @@
+Speakers: Maru Aran, Ezequiel Monteverde
+Event Title: A public-private collaboration to improve the quality of data and the value of data-driven decision-making in the prehospital healthcare setting
+Event Date: Thursday, May 2, 2024
+Event Start Time: 2:00 PM
+Event End Time: 2:30 PM
+Event Description: Healthcare services struggle through multiple constraints, like providing the best quality of care for everyone at an affordable cost. In the prehospital emergency setting, this is intensified by the need to bring these elements together in a timely fashion. In this session, the representants of two organizations, Fundación Trauma (an NGO that works towards improving trauma care) and Data Impacta (an organization that develops data-driven solutions) will show their experience regarding the implementation of a dashboard for the prehospital emergency system of the province of Mendoza, Argentina. The model consists of the integration of administrative data (e.g., data and time of call reception and ambulance departure) and clinical data (e.g., vital signs and procedures) from different sources (emergency service, official agencies) with different types (spreadsheets, databases) using metrics and maps deployed in a freely available BI application.Register here!

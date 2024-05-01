@@ -1,0 +1,6 @@
+Speakers: Kate Darwent, Paul Collier
+Event Title: Sharing Power in Data Practices
+Event Date: Thursday, May 2, 2024
+Event Start Time: 11:00 AM
+Event End Time: 12:30 PM
+Event Description: In the world of data for social impact, it is common to ask individuals with lived experience about an issue for their thoughts and opinions. What is much less common, however, is meaningfully sharing power with the community, allowing individuals who are closest to an issue to influence important decisions about how data is gathered and shape the narrative that gets crafted from their data. In " Sharing Power in Data Practices," our aim is to paint a picture of how to meaningfully engage community members at each stage of the data collection, management, exploration, and reporting process. We will explore creative methods for engaging individuals in designing data collection objectives and activities, without requiring them to have preexisting data knowledge. The seminar will also cover collaborative techniques for analyzing and interpreting data, allowing a diverse group to influence the narrative that coalesces around their data. By bringing in real-world examples and case studies, participants will see how these practices lead to better data quality and a more empowered and engaged community.Register here.

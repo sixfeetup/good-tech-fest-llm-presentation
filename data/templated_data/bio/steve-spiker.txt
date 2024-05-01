@@ -1,0 +1,59 @@
+Name: Steve Spiker
+Title: This month I begin my new role leading Alluma's product and technology and community success teams!
+Occupation: Chief of Product and Technology at Alluma
+Bio: Currently Chief Data & Privacy Officer at Alluma, a social technology nonprofit creating a data culture, analytics and governance systems and co-leading our strategy management function! Co-created Alluma's innovation process, crowdsourcing initiative, and championing DEI.
+For 2018 I was the Data Evangelist for Measures for Justice for the past 13 months, working to bring transparency to the Criminal Justice system across the USA, county by county.  All their remote tech staff got laid off, hence my current availability!
+
+For the 12 years prior I was the Director of Research & Technology at the Urban Strategies Council, an Oakland based nonprofit advancing social, racial and economic equity. I also managed their communications efforts and our recent rebrand.  I helped organizations and government use technology more effectively and share their data, oversee complex spatial research analysis, manage communications and advocate for opensource tech, open government and more open data. 
+I've built and managed diverse teams and care about the people I work with as much as the work itself.
+I have extensive research experience in community development, housing, criminal justice, public health and education issues. I love data, visualization, GIS and strategic technology implementation, especially open source tech.  
+I'm the co-founder of OpenOakland, a civic innovation organization focused on open government and civic technology.   I am an outspoken supporter of open data and open government and speak across the USA about data driven decision making.  I was chosen as one of Next American City’s Vanguard class of 2012 and was honored as a White House Champion of Change in 2013. 
+I'm a dad of three girls, a husband and I fight against human trafficking, modern slavery, racism and white supremacy. I also run Stealing Beauty Photography. And I vaguely remember writing  a chapter in the book beyondtransparency.org
+Country: United States of America
+
+    Title/Company: Photographer and Web Designer at Stealing Beauty Photography in Oakland,CA from Month: 1,Year: 2005 to Month:  year:  doing Specialize in fine art landscape photography, weddings and commercial photography.
+
+Web design and graphic design experience, focusing on non-profit organizations web sites and blogging systems.
+
+Consulting for IT management, network support and GIS analysis.
+
+    Title/Company: Data Evangelist at Measures for Justice in San Francisco Bay Area from Month: 1,Year: 2018 to Month: 1 year: 2019 doing My role was split in three major areas.
+* Building and managing relationships with the software solutions community in the Criminal Justice sector.
+* Building relationships and partnerships with industry groups and associations.
+* Providing technical leadership to our data outreach teams.
+
+In this role I developed deep relationships across the CJ sector, growing the trust in MFJ as a valuable national research organization, while constantly seeking opportunities to partner with other organizations. I built out customized Salesforce systems for tracking our progress and worked in local law enforcement offices to help them with data extraction.
+
+On top of my core role, I've also started new initiatives on:
+•	Internal communications; co-chairing the Comms and Collaboration Committee.
+•	Professional development: helped Data Outreach team build PD into their operations.
+•	Writing culture: spearheaded initial efforts to have MFJ be more outward in its writing and comms.
+•	Conference strategy: co-developed the process and systems for coordinating the organization’s approach to conference attendance and representation.
+
+    Title/Company: National Executive Committee at National Neighborhood Indicators Partnership in Washington D.C. Metro Area from Month: 1,Year: 2010 to Month: 12 year: 2012 doing Provided oversight and vision for the multi-city partnership. Created the alumni network, introduced open data to the network and advocated for more dynamic unconference formats into the convenings.
+
+    Title/Company: Volunteer at Elevate Youth Group in El Sobrante, CA from Month: 1,Year: 2008 to Month: 1 year: 2012 doing Mentor and support youth, provide leadership and supervise events, planning local service opportunities.
+
+    Title/Company: Spatial Analyst & Spatial Epidemiologist at North Metro Population Health Unit & State Dept of Health in None from Month: 3,Year: 2003 to Month: 1 year: 2006 doing GIS and spatial analysis of epidemiology data and public health programs.
+Developed prototypes of web mapping systems using Intramaps and ArcIMS.
+Developed and maintained statewise spatial database using Oracle Spatial and ArcSDE.
+
+    Title/Company: Chief of Product and Technology at Alluma in Oakland, CA from Month: 4,Year: 2019 to Month:  year:  doing More to come!
+
+    Title/Company: Research & Technology Director at Urban Strategies Council in Oakland, CA from Month: 7,Year: 2006 to Month: 12 year: 2017 doing Steve Spiker was the Director of Research and Technology at the Urban Strategies Council.  He also managed all communications including our recent re-brand and web rebuild.  He supervised all research and data projects at the Council, managed data warehousing and all technology systems and vendors.  He designed and build several web products for community initiatives and oversaw web app development for clients.
+
+Steve has participated in several policy initiatives including the creation of Oakland's new redistricting commission, led the crowd sourcing of Oakland's open data ordinance and has advocated for better data leadership and more open sharing policies in the City and County.
+He managed all data sharing agreements and all incoming client contracts, as well as extensive public speaking about the role the Council plays in our region.
+
+He has experience in criminal safety and justice, economic development, housing , health and the application of GIS/data and other technologies to these issues.  He works closely with community groups to help them develop and implement IT solutions to meet their unique needs and developed data storage and management systems for many such organizations.
+
+    Title/Company: Executive Director/Founder at OpenOakland in Oakland,CA from Month: 8,Year: 2012 to Month: 12 year: 2016 doing Spike co-founded and was the ED for OpenOakland for several years. OpenOakland is a volunteer led and staffed group of technologists supporting open government, open public data and civic innovation in government for more efficient, equitable and data driven government locally. He managed projects, recruited a diverse volunteer leadership team, liaised with local government partners and did community outreach, along with volunteer support.
+
+Spike led the planning for three consecutive CityCamp events and advised on the subsequent fourth and fifth events. He planned several public hackathon events along with the White House recognized community content production event Oakland Answers, for which he received the Champion of Change award.
+
+He led the development of earlyoakland.com, oaklandbeats.org and data.openoakland.org along with advocacy campaigns around government transparency and power.
+
+    Title/Company: Program Mentor at Code for America in Washington D.C. Metro Area from Month: 3,Year: 2011 to Month: 12 year: 2012 doing Mentoring a cfa Fellow working on tech issues to bridge the digital divide
+
+    Title/Company: IT Support at Guinness in None from Month: 1,Year: 2001 to Month: 12 year: 2002 doing None
+

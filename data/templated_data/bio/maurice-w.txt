@@ -1,0 +1,91 @@
+Name: Maurice W.
+Title: Engineer, Leader and Entrepreneur | Transforming ideas into solutions | Driving growth and business success
+Occupation: Software Engineering Manager at The Trevor Project
+Bio: My mission is to use my skills and expertise to create innovative solutions that empower others.
+
+Throughout my career, I have worked at early-stage startups, large multi-national corporations, and even non-profits. 
+
+I have over 14 years of experience in software engineering, with a focus on user experience, web applications, and cloud technologies. I am also a Certified ScrumMaster, with a passion for agile methodologies and continuous improvement.
+Country: United States of America
+
+    Title/Company: Software Engineering Manager at The Trevor Project in Remote from Month: 3,Year: 2022 to Month: 9 year: 2023 doing I oversee and mentor a team of on- and-offshore software engineers while growing the team from five to 10 members. 
+
+I led that team to build and successfully launch Trevor's first fully custom-built virtual Crisis Services Management platform, using a combination of Twilio Flex, React/Next.js, and Kubernetes.
+
+That same platform enabled Trevor to expand its life-saving operations to LGBTQ young people in Mexico. We were the only service to operate 24/7 and offer crisis support via WhatsApp. This grew to handle over 2500 active conversations per week in its first six months of operations.
+
+=-=-=-=-=-=-=-=
+
+Worked very closely with the QA, Product, and other Engineering leaders to establish a common SDLC process within Trevor.
+
+Constantly collaborate with Product leaders to establish an execution plan and priority of upcoming features.
+
+    Title/Company: Principal Software Engineer at PatientStudio in Michigan, United States from Month: 6,Year: 2019 to Month: 7 year: 2023 doing First engineer at an early-stage EMR/EHR startup.
+
+Worked very closely with the CEO, CTO, and designer to create a number of proofs-of-concepts to help the founding team determine product market fit, which led to the company pivoting away from "online forms" and leaning into the EMR and Practice management functionality. 
+
+I also helped interview and onboard full-time engineers on both the frontend and backend.
+
+Outside of that, my main responsibilities were to establish the company's technology architecture and engineering processes while supporting full-time engineers in feature delivery. 
+
+
+Accomplishments:
+- Launched the company's first product into production (going from 0 to 1)
+- Established automated deployment processes that reduced "move to production" times by 72%
+- Created a standard process (albeit manual) for onboarding new large customers and importing their data from other EMRs
+
+    Title/Company: Principal Developer and Team Lead at Nurocor - bringing order to clinical data in Remote from Month: 2,Year: 2018 to Month: 3 year: 2022 doing Lead a team of in-house engineers through an iterative delivery process to release Nurocor’s first fully in-house software product (Vision). Architected a modular, configurable “customer apps” approach which makes up part of the base on the Nurocor Clinical Platform (NCP), with support for 3rd party UI integrations.
+
+- Established a common software development process for new software products along with an automation toolchain
+- Developed technical patterns and tools for consistently building customer-facing capabilities within NCP
+- Grew the UI engineering team from 2 to 7 members while mentoring junior engineers
+
+    Title/Company: Freelance Software Engineer at MRW Services in The Internet from Month: 1,Year: 2014 to Month: 12 year: 2020 doing Worked with several small business owners across a range of industries to build custom software, ranging from small internal productivity tools all the way to full customer-facing solutions.
+
+    Title/Company: Technical Advisor and Lead Developer at PadPick in Greater Detroit Area from Month: 1,Year: 2015 to Month: 1 year: 2016 doing PadPick is a real estate platform that enables home buyers and renters the ability to find the perfect property for the lifestyle they want to live, while also generating quality leads for real estate agents, brokers, and service providers. 
+
+* Conducted all user interviews to properly asses and identify our target market as well as their needs
+* Introduced an iterative design/UX process to discover and evaluate future features
+* Developed proof-of-concept to collect users lifestyle and housing preferences and match them up with available properties
+* Integrated with 3rd party MLS systems
+* Gained experience with the ELK stack (Elastic Search, Log stash and Kibana)
+
+    Title/Company: Co-Founder and lead developer at Innovative Child Care Solutions, Inc. in Greater Boston Area from Month: 1,Year: 2011 to Month: 1 year: 2014 doing Innovative Child Care Solutions provided information management systems to improve security, efficiency and communication in the early childhood education industry.
+
+* Worked remotely as part of small, highly focused team
+* Built proof-of-concept with Backbone, CakePHP, Postgres and Phonegap
+* Involved with planning and prioritizing feature development and release schedule
+
+    Title/Company: Webmaster at Bright Investment and Construction in None from Month: 5,Year: 2007 to Month: 12 year: 2009 doing develop, deploy and maintain the website for a new Panamanian-based real estate company using PHP for the front-end and mySQL as the back-end. Responsibilities included (but not limited to) adding new project, updating status on current listings, managing mailing lists, developing and implementing new layouts, database maintenance
+
+    Title/Company: Senior Staff UX Technologist at GE Aviation in Greater Detroit Area from Month: 4,Year: 2016 to Month: 2 year: 2018 doing Lead multiple projects in a cross- functional environment while planning technology & development strategy and mentoring other developers.
+
+Achievements:
+- Introduction of new framework (Vue) as the new standard for green-field web applications and re-write of legacy.
+- Architected and developed a micro- application strategy for the UI to increase delivery speed on a large-scale project
+
+    Title/Company: User Experience Leader at GE Aviation in Greater Detroit Area from Month: 8,Year: 2015 to Month: 4 year: 2016 doing Lead a small team of senior professionals focused on the execution of UX strategies and lead strategic execution to develop modern, user-friendly web experiences based on customer & business goals for GE Aviation IT Risk projects.
+
+Achievements:
+- Introduced the UX discipline to a new business segment and quickly built teams reputation by holding regular “intro to UX” open presentations.
+- Development and drove adoption of a company-wide tool aimed on the discovery of unstructured user data across which resulted in the deletion of 12TB of unnecessary data over a period of 6 months.
+
+    Title/Company: Front-End Development Leader at GE Capital in Greater Detroit Area from Month: 6,Year: 2014 to Month: 8 year: 2015 doing Part of a shared services User Experience group that supports all of GE Capital. Focused primarily on front-end development and user interactions.
+Min responsibilities were to drive strategic initiatives, which focus on front-end development, grow teams’ technical expertise as well as seek out new “ad-hoc” projects.
+
+Achievements::
+- Introduced development standards across the team to increase code quality and consistency
+- Drove the creation of reusable UI components to decrease application development time
+
+    Title/Company: Lead Front-End Developer at GE Capital in Greater Detroit Area from Month: 8,Year: 2011 to Month: 6 year: 2014 doing Part of our Web Design & UX COE, we conceptualize and develop engaging visual interfaces for GE Capital utilizing web-based technologies.
+Responsible for driving front-end development process and implementations for multiple large-scale, public facing projects within GE Capital.
+
+Achievements:
+- Mentored 5 summer interns, exposing them to front-end technologies and various facets of the UX discipline for the first time.
+- Gained a reputation as “the closer” for stepping in to at-risk, high-visibility projects to help them meet deadlines.
+
+    Title/Company: Information Management Leadership Program member at GE Capital in NYC metro area from Month: 7,Year: 2009 to Month: 8 year: 2011 doing Rotate among the GE Capital business group while undertaking a new role every six months to provide technical and leadership expertise on various IT projects.
+The program(Information Management Leadership Program) focuses on developing solid leadership, communication and project management skills. The program provides a strong technical foundation, breadth and depth across technologies, and business functional knowledge.
+
+    Title/Company: Helpdesk Student Supervisor at WPI in Worcester, MA from Month: 12,Year: 2006 to Month: 5 year: 2009 doing While attending school as a full-time student, I formed part of a team of 30 student workers that provided user-side support to the faculty, staff and student body of WPI. Assisted with hardware diagnosis, software installation/configuration, network connectivity support and relaying issues to the correct department.
+

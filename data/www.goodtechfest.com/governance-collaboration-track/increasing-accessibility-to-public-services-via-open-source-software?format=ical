@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:65f0fdb6f32c0219d2d9ffbc@squarespace.com
+DTSTAMP:20240422T150712Z
+DTSTART:20240502T130000Z
+DTEND:20240502T140000Z
+SUMMARY:Increasing Accessibility to Public Services via Open Source Softwar
+ e
+END:VEVENT
+END:VCALENDAR

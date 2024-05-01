@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:65f0b38a3cff0432ca09fbf7@squarespace.com
+DTSTAMP:20240422T150153Z
+DTSTART:20240502T140000Z
+DTEND:20240502T143000Z
+SUMMARY:Empowering Underrepresented Languages: ML for Inclusive Knowledge A
+ ccess on Wikipedia(s) (Project Symmetry Case Study)
+END:VEVENT
+END:VCALENDAR

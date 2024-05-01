@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:65d8c5186ae43f5744ed1485@squarespace.com
+DTSTAMP:20240418T235104Z
+DTSTART:20240502T160000Z
+DTEND:20240502T164500Z
+SUMMARY:The Impact of Legal Innovation in accelerating access to justice an
+ d Access to legal services
+END:VEVENT
+END:VCALENDAR

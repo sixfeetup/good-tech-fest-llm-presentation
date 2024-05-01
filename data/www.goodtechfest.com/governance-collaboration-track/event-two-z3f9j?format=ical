@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:65d8c716560bae5cf97593c1@squarespace.com
+DTSTAMP:20240422T153533Z
+DTSTART:20240502T141500Z
+DTEND:20240502T144500Z
+SUMMARY:AI for Changemakers - Empowering 100 nonprofit scale-ups with AI st
+ rategy and tools
+END:VEVENT
+END:VCALENDAR

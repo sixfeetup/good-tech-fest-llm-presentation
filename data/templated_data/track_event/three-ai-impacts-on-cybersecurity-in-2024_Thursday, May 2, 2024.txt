@@ -1,0 +1,6 @@
+Speakers: Matt Eshleman
+Event Title: Three AI Impacts on Cybersecurity in 2024
+Event Date: Thursday, May 2, 2024
+Event Start Time: 8:00 AM
+Event End Time: 8:45 AM
+Event Description: What are the main ways AI impacts nonprofit cybersecurity risks?  Not surprisingly, Matt Eshleman, CTO at Community IT, recommends creating policies that address the way your staff uses AI – if you haven’t updated your Acceptable Use policies recently, AI concerns are a good reason to do that. He also recommends taking an inventory of your file sharing permissions before AI surfaces something that wasn’t secured correctly. Finally, make sure your staff training is up to date, engaging, and constant. AI is creating more believable attacks that change more frequently; if your staff don't know what to look out for you could fall for the newest scams or share sensitive data with a public AI generator.  Community IT has created an Acceptable Use of AI Tools policy template; you can download it for free from their site.Register here.

@@ -1,0 +1,42 @@
+Name: Juan Pablo Sarmiento
+Title: Full Stack Engineer at Two Sigma Data Clinic
+Occupation: Full Stack Engineer, Data Clinic at Two Sigma
+Bio: None
+Country: United States of America
+
+    Title/Company: Full Stack Engineer, Data Clinic at Two Sigma in New York, United States from Month: 1,Year: 2022 to Month:  year:  doing Technical lead for engineering projects at Data Clinic, Two Sigma, and leading Data Clinic's Public Good Products vertical.
+
+Data Clinic is Two Sigma's data and tech-for-good arm where we partner with mission-driven organizations to provide pro bono support for their data science and engineering problems. In addition to directly partnering with organizations, we also build freely available and open sourced public good products to solve common data challenges, such as data collection, data discovery, and data processing for the social sector.
+
+    Title/Company: Director Of Engineering at Zenysis Technologies in None from Month: 11,Year: 2020 to Month: 1 year: 2022 doing Managed a team of 13 engineers to deliver public health systems to low and middle-income countries. Our software has been used by ministries of health worldwide and has played pivotal roles in managing responses to disease epidemics, such as cholera or COVID.
+
+    Title/Company: Frontend Engineering Team Lead at Zenysis Technologies in None from Month: 9,Year: 2019 to Month: 11 year: 2020 doing Built new data analytics software, frontend libraries, and rapid-response tools to aid in humanitarian disaster relief and fight disease outbreaks in Africa, Asia, and South America.
+Established frontend best practices and led the frontend architecture design for our products.
+Spearheaded new initiatives in platform reliability by improving internal tools, developer tools, DevOps processes, and testing across the entire platform.
+
+    Title/Company: Senior Software Engineer at Zenysis Technologies in Greater New York City Area from Month: 3,Year: 2017 to Month: 9 year: 2019 doing Built data analysis platforms for Global Health and International Development projects.
+Led frontend development for analytical platforms used by ministries of health and non-profit organizations worldwide.
+Built query tools, dashboard applications, case management platforms, alert systems, and new frontend libraries and frameworks to provide a strong frontend architecture for our products.
+
+    Title/Company: Philanthropy Engineer at Palantir Technologies in None from Month: 7,Year: 2013 to Month: 3 year: 2017 doing Forward Deployed Software Engineer, worked exclusively on Palantir's Philanthropy team. Built software for 17 different clients, all of whom were were non-profit organizations (both domestic and international).
+Work in housing the homeless: https://www.youtube.com/watch?v=u5StPcB4uII
+Work in agriculture and food security: https://www.youtube.com/watch?v=d298LZd38Kk
+- Managed projects and business partnerships for humanitarian projects in global health, poverty alleviation, disaster relief, anti-human trafficking, food security, and homelessness
+- Built an early warning system for the Grameen Foundation in the Philippines to alert over 10,000 farmers of dangerous weather conditions that can lead to pest and disease outbreaks
+- Developed a case-management application for Community Solutions to coordinate housing of homeless people in over 10 cities in the US
+- Built situational awareness software to help NGOs such as Direct Relief and Team Rubicon coordinate relief work in the Philippines after Typhoon Haiyan
+
+    Title/Company: Computer Science Course Staff at Cornell University in None from Month: 1,Year: 2010 to Month: 5 year: 2013 doing I held weekly office hours to help students with any questions they may have, graded their projects and exams, created projects and problem sets for the students to work on, and taught a classroom of students.
+
+Teaching Assistant for CS 3110 - Functional Programming (August 2012 to May 2013)
+
+Consultant for CS 3110 - Functional Programming (January 2011 to August 2012)
+
+Grader for CS 4700 - Artificial Intelligence (October 2011 to December 2011)
+
+Consultant for CS 2110 - Object Oriented Programming and Data Structures (January 2010 - January 2011)
+
+    Title/Company: Software Engineer Intern at Facebook in Menlo Park, California from Month: 5,Year: 2012 to Month: 8 year: 2012 doing Worked on the Photos/Videos team and focused predominantly on the Photo viewing experience on the mobile website.
+
+    Title/Company: Software Engineer Intern at Facebook in None from Month: 5,Year: 2011 to Month: 8 year: 2011 doing Managed the e-mail user experience of Facebook Deals - Facebook's daily deals product for small business. Intern project was to improve the user's experience through the UI of the emails they received, while at the same time increasing traffic to deals and their conversion & purchase rate. I also obtained experience working with Events, News Feed, and Photos.
+

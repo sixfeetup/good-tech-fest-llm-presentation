@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:65e23e45d9191e4a4fc45cc8@squarespace.com
+DTSTAMP:20240418T194424Z
+DTSTART:20240501T210000Z
+DTEND:20240501T213000Z
+SUMMARY:Building a new product with Salesforce Experience Cloud - Considera
+ tions and lessons learned
+END:VEVENT
+END:VCALENDAR

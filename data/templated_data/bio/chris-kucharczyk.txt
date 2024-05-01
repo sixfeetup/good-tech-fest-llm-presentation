@@ -1,0 +1,30 @@
+Name: Chris Kucharczyk
+Title: Senior Data Scientist at DrivenData
+Occupation: Senior Data Scientist at DrivenData
+Bio: I build tools to help people interact with and understand data.
+Country: United States of America
+
+    Title/Company: Senior Data Scientist at DrivenData in None from Month: 2,Year: 2022 to Month:  year:  doing None
+
+    Title/Company: Design Lead & Data Scientist at IDEO in Chicago, Illinois, United States from Month: 1,Year: 2021 to Month: 1 year: 2022 doing None
+
+    Title/Company: Senior Data Scientist & Designer at IDEO in Chicago, Illinois, United States from Month: 7,Year: 2019 to Month: 1 year: 2021 doing None
+
+    Title/Company: Data Scientist & Designer at IDEO in Chicago from Month: 1,Year: 2018 to Month: 7 year: 2019 doing None
+
+    Title/Company: Data Science Fellow at IDEO.org in New York, New York, United States from Month: 2,Year: 2021 to Month: 1 year: 2022 doing None
+
+    Title/Company: Data Science Intern at Datascope Analytics in Chicago, Illinois from Month: 6,Year: 2017 to Month: 9 year: 2017 doing None
+
+    Title/Company: Research Assistant at Laser Interferometer Gravitational-wave Observatory (LIGO) in Stanford, CA from Month: 6,Year: 2011 to Month: 7 year: 2012 doing Designed and implemented computer controls for seismic isolation platforms that provided stabilization for Advanced LIGO optics and enabled detection of gravitational waves.
+
+    Title/Company: Admissions Associate at Stanford University in None from Month: 9,Year: 2010 to Month: 6 year: 2011 doing Held information sessions and provided one-on-one counseling for prospective students interested in applying to Stanford University.
+
+    Title/Company: Financial Manager at Stanford University in Stanford, California from Month: 9,Year: 2009 to Month: 6 year: 2011 doing Managed $150,000 in revenue and spending annually for 55-person house. 
+
+    Title/Company: Tour Guide Manager at Stanford University in None from Month: 6,Year: 2009 to Month: 6 year: 2011 doing None
+
+    Title/Company: Tour Guide at Stanford University in None from Month: 6,Year: 2008 to Month: 6 year: 2011 doing None
+
+    Title/Company: CS106 Section Leader at Stanford University in None from Month: 9,Year: 2009 to Month: 9 year: 2010 doing Taught discussion sections for introductory classes in Java and C++.
+
