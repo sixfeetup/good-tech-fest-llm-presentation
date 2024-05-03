@@ -105,7 +105,7 @@ extract: data  ## extract the data
 	@LLM_USER_PATH=./llm-config .venv/bin/python data_load.py
 	@echo "$(GREEN)... Done.$(END)"
 
-run:
+run:  ## Run the chat demo
 	@# this is based on the open ai libs
 	@LLM_USER_PATH=./llm-config .venv/bin/python data_query.py
 

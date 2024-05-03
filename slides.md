@@ -4,8 +4,8 @@ pagetitle: Innovate with AI
 author: Calvin Hendryx-Parker, CTO, Six Feet Up
 author-meta:
     - Calvin Hendryx-Parker
-date: October 2023
-date-meta: 2023
+date: May 2024
+date-meta: 2024
 keywords:
     - Python
     - AI
@@ -142,7 +142,7 @@ of a server-side generated UI.
 # Build your own ChatGPT {data-background-image="images/j2WhopCA.jpg"}
 
 Bring up a full environment with all the bells and whistles 👇
-<https://github.com/sixfeetup/good-tech-fest-presentation>
+<https://github.com/sixfeetup/good-tech-fest-llm-presentation>
 
 Once checked out, run:
 
