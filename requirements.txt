@@ -5,9 +5,9 @@ llm==0.13.1
 llm-gpt4all==0.4
 openai==1.25.0
 prompt_toolkit==3.0.43
-requests==2.31.0
+requests==2.32.2
 tiktoken==0.6.0
 unstructured==0.13.6
 poppler-utils==0.1.0
 python-slugify==8.0.4
-requests==2.31.0
+requests==2.32.2
