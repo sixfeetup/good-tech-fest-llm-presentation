@@ -11,13 +11,16 @@ YELLOW:=$(shell echo "\033[0;33m")
 RED:=$(shell echo "\033[0;31m")
 END:=$(shell echo "\033[0m")
 
+UV_BIN := $(shell command -v uv 2>/dev/null || echo $$HOME/.local/bin/uv)
+
 BASE_DOMAIN = www.goodtechfest.com
 BASE_URI = https://$(BASE_DOMAIN)
 URI_PATHS = /ai-data-science-track /cyber-security-track /engineering-track /technical-leadership-management-track /product-development-management-track /governance-collaboration-track /ethics-responsibility-track
 
 ## Before you start
 check: ## System check
-	@echo "import sys; assert sys.version_info >= (3,9), 'You need at least python 3.9'" | uv run -
+	@command -v uv >/dev/null 2>&1 || (echo "$(YELLOW)uv not found. Installing uv...$(END)" && curl -fsSL https://astral.sh/uv/install.sh | sh)
+	@echo "import sys; assert sys.version_info >= (3,9), 'You need at least python 3.9'" | $(UV_BIN) run -
 	@echo "$(GREEN)Looks good.$(END)"
 
 persist:
