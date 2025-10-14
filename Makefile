@@ -41,7 +41,7 @@ setup: check .venv persist ## Setup the development environment.  You should onl
 	@echo "$(GREEN)Setting up development environment...$(END)"
 	@cp -r canned_index/* persist
 	@echo
-	@echo "Now you need your OpenAI API key.  Go to https://beta.openai.com/account/api-keys and create a new key."
+	@echo "Now you need your OpenAI API key.  Go to https://platform.openai.com/account/api-keys and create a new key."
 	@.venv/bin/llm keys set openai
 	@.venv/bin/llm logs off
 	@echo "$(GREEN)... Done. (psst, if that went badly the keys should be in llm-config/keys.json)$(END)"
