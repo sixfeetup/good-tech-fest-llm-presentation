@@ -60,7 +60,7 @@ if __name__ == "__main__":
             ],
             style=Style.from_dict(
                 {
-                    "prompt": "#00ff66",
+                    "prompt": "#12521F",
                 }
             ),
             completer=conference_completer,

@@ -17,7 +17,7 @@ URI_PATHS = /ai-data-science-track /cyber-security-track /engineering-track /tec
 
 ## Before you start
 check: ## System check
-	@python -c "import sys; assert sys.version_info >= (3,9), 'You need at least python 3.9'"
+	@echo "import sys; assert sys.version_info >= (3,9), 'You need at least python 3.9'" | uv run -
 	@echo "$(GREEN)Looks good.$(END)"
 
 persist:
@@ -25,9 +25,7 @@ persist:
 
 .venv:
 	@echo "$(GREEN)Setting up environment...$(END)"
-	python -m venv .venv
-	.venv/bin/python -m pip install --upgrade pip
-	.venv/bin/pip install -r requirements.txt
+	@uv sync
 	@echo "$(GREEN)... Done.$(END)"
 	@echo
 

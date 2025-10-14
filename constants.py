@@ -8,10 +8,13 @@ HOST = "openai"
 if HOST == "openai":
     BASE_API_URL = "https://api.openai.com/v1"
     # MODEL = "gpt-3.5-turbo-16k" # use this for early testing, cheaper, but noticeably worse
-    MODEL = "gpt-4-turbo"
+    # MODEL = "gpt-4-turbo"
+    MODEL = "gpt-4.1-mini-2025-04-14"
+    # MODEL = "gpt-5-mini"
 elif HOST == "ollama":
     BASE_API_URL = "http://127.0.0.1:11434/v1"
-    MODEL = "llama3"
+    #MODEL = "llama3.2"
+    MODEL = "gpt-oss:20b"
 
 STREAM_RESPONSE = True
 WEBSITE = "www.goodtechfest.com"
